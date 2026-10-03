@@ -1,0 +1,2922 @@
+[
+  {
+    "id": "aloe-vera",
+    "commonName": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "family": "Asphodelaceae",
+    "category": "Succulents",
+    "description": "Renowned for centuries for its soothing medicinal gel, Aloe Vera is a hardy, drought-tolerant succulent with fleshy, serrated leaves that thrives on bright light and minimal fuss.",
+    "imageUrl": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Spring to Early Summer",
+      "notes": "Best propagated from offsets (pups) during temperate spring and autumn windows."
+    },
+    "watering": {
+      "summer": "Every 2-3 weeks",
+      "winter": "Every 4-6 weeks",
+      "method": "Soak and dry method. Water deeply until it runs out the drainage hole, then allow soil to dry completely.",
+      "overwaterSigns": "Soft, mushy, translucent leaves that turn brown or waterlogged at the base.",
+      "underwaterSigns": "Curled, thinning leaves with dry reddish-brown tips and indented puckering."
+    },
+    "light": {
+      "type": "Bright Indirect to Direct Sunlight",
+      "hoursPerDay": "6+ hours",
+      "notes": "Enjoys plenty of bright sunlight; introduce intense afternoon sun gradually to avoid leaf bleaching."
+    },
+    "soil": {
+      "type": "Sandy, porous cactus and succulent mix",
+      "phRange": "7.0 - 8.5",
+      "drainage": "Fast-draining, highly porous",
+      "mix": "50% potting soil, 30% perlite or pumice, 20% coarse horticultural sand"
+    },
+    "environment": {
+      "tempRange": "13°C - 30°C (55°F - 86°F)",
+      "humidity": "Low to moderate (30% - 40%)",
+      "location": "Indoor / Outdoor",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Mediterranean",
+        "Temperate (Indoor)"
+      ],
+      "frostTolerance": "Very Low (protect below 10°C / 50°F)"
+    },
+    "care": {
+      "fertilizer": "Feed with a diluted low-nitrogen succulent fertilizer once in spring and once in summer.",
+      "pruning": "Trim discolored or spent lower leaves at the base using sterile shears.",
+      "repotting": "Repot every 2-3 years in spring when crowded with offshoots."
+    },
+    "problems": [
+      {
+        "issue": "Root rot and mushy leaf bases",
+        "cause": "Overwatering or stagnant water in the saucer",
+        "fix": "Remove the plant, trim necrotic black roots, let dry for 24 hours, and replant in dry gritty soil."
+      },
+      {
+        "issue": "Thin, stretched out leaves (etiolation)",
+        "cause": "Inadequate light levels indoors",
+        "fix": "Move to your sunniest window ledge or supplement with an LED grow bulb."
+      }
+    ]
+  },
+  {
+    "id": "snake-plant",
+    "commonName": "Snake Plant (Mother-in-Law's Tongue)",
+    "scientificName": "Sansevieria trifasciata",
+    "family": "Asparagaceae",
+    "category": "Indoor",
+    "description": "Virtually indestructible architectural succulent with rigid, upright sword-like foliage patterned in dark green bands and vivid golden-yellow margins. Celebrated NASA top-rated air cleanser that releases oxygen at night.",
+    "imageUrl": "/plants/snake-plant.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Slow",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Spring (rare fragrant greenish-white flowers)",
+      "notes": "Active vegetative growth occurs throughout warm spring and summer months."
+    },
+    "watering": {
+      "summer": "Every 2-3 weeks",
+      "winter": "Every 4-8 weeks",
+      "method": "Check that the soil is 100% dry all the way through before watering. Water around the edge rather than directly into the leaf rosette.",
+      "overwaterSigns": "Yellowing, floppy, foul-smelling mushy foliage starting at soil level.",
+      "underwaterSigns": "Wrinkled, shriveled leaf blades that lose their firm rigidity."
+    },
+    "light": {
+      "type": "Low to Bright Indirect Light (Very Adaptable)",
+      "hoursPerDay": "2-8 hours",
+      "notes": "Survives in low light corners, but grows faster and displays richer variegated patterns in medium to bright indirect light."
+    },
+    "soil": {
+      "type": "Free-draining potting soil with pumice",
+      "phRange": "5.5 - 7.5",
+      "drainage": "Excellent drainage essential",
+      "mix": "60% cactus mix, 40% standard organic potting mix"
+    },
+    "environment": {
+      "tempRange": "15°C - 32°C (60°F - 90°F)",
+      "humidity": "Average to low (30% - 50%)",
+      "location": "Indoor",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Hot Arid (Sindh/Punjab)",
+        "Temperate (Indoor)"
+      ],
+      "frostTolerance": "None (vulnerable below 10°C / 50°F)"
+    },
+    "care": {
+      "fertilizer": "Feed with half-strength all-purpose houseplant food 2-3 times during spring and summer.",
+      "pruning": "Cut off broken or scarred leaves at the base using a sterile blade.",
+      "repotting": "Tolerates being pot-bound; repot every 3-4 years into a sturdy terracotta pot."
+    },
+    "problems": [
+      {
+        "issue": "Leaves falling over and becoming soft",
+        "cause": "Overwatering causing basal rot",
+        "fix": "Withhold water, cut out diseased foliage, and ensure container has active drain holes."
+      },
+      {
+        "issue": "Brown crispy tips",
+        "cause": "Fluctuating moisture or cold air drafts",
+        "fix": "Position away from direct AC vents and maintain a consistent watering interval."
+      }
+    ],
+    "gallery": [
+      "/plants/snake-plant.jpg",
+      "/plants/snake-plant-pot.jpg",
+      "/plants/snake-plant-cluster.jpg"
+    ]
+  },
+  {
+    "id": "money-plant",
+    "commonName": "Money Plant (Golden Pothos / Devil's Ivy)",
+    "scientificName": "Epipremnum aureum",
+    "family": "Araceae",
+    "category": "Indoor",
+    "description": "Versatile trailing vine adorned with glossy heart-shaped emerald leaves splashed with creamy gold marble variegation. Renowned for its extraordinary air-purifying qualities and effortless resilience in water or soil.",
+    "imageUrl": "/plants/money-plant.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Year-round lush foliage",
+      "notes": "Roots vigorously in water or soil during spring and monsoon seasons."
+    },
+    "watering": {
+      "summer": "Once a week",
+      "winter": "Every 10-14 days",
+      "method": "Water when top 50% of the soil feels dry to touch. Can also be cultivated directly in clean fresh water vases.",
+      "overwaterSigns": "Black or yellow leaves accompanied by damp, musty soil.",
+      "underwaterSigns": "Drooping limp vines, curling leaves, dry papery brown margins."
+    },
+    "light": {
+      "type": "Medium to Bright Indirect Light",
+      "hoursPerDay": "4-6 hours",
+      "notes": "Tolerates dim light, but variegated leaf patterns fade to plain green without gentle indirect sunlight."
+    },
+    "soil": {
+      "type": "Nutrient-rich, well-aerated potting mix",
+      "phRange": "6.1 - 6.5",
+      "drainage": "Well-draining",
+      "mix": "50% coco peat or peat moss, 30% perlite, 20% compost or worm castings"
+    },
+    "environment": {
+      "tempRange": "18°C - 32°C (65°F - 90°F)",
+      "humidity": "Moderate to high (50% - 70%)",
+      "location": "Indoor / Sheltered Outdoor",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Hot Humid",
+        "Hot Arid (Indoor)"
+      ],
+      "frostTolerance": "None"
+    },
+    "care": {
+      "fertilizer": "Apply balanced liquid foliage fertilizer monthly from March through October.",
+      "pruning": "Pinch back vine tips regularly to encourage bushier, dense branching.",
+      "repotting": "Repot every 1-2 years in spring when roots emerge from drainage slits."
+    },
+    "problems": [
+      {
+        "issue": "Yellowing leaves near the root base",
+        "cause": "Overwatering or soggy root substrate",
+        "fix": "Allow top 2 inches of soil to dry before the next watering session."
+      },
+      {
+        "issue": "Loss of golden leaf variegation",
+        "cause": "Not enough ambient indirect light",
+        "fix": "Shift the pot closer to a window with filtered curtain light."
+      }
+    ],
+    "gallery": [
+      "/plants/money-plant.jpg",
+      "/plants/money-plant-pilea.jpg",
+      "/plants/money-plant-climbing.jpg"
+    ]
+  },
+  {
+    "id": "tomato",
+    "commonName": "Tomato",
+    "scientificName": "Solanum lycopersicum",
+    "family": "Solanaceae",
+    "category": "Vegetables",
+    "description": "The quintessential summer garden staple. Produces juicy, aromatic fruits rich in lycopene and vitamin C, rewarding attentive gardeners with bountiful yields.",
+    "imageUrl": "https://images.unsplash.com/photo-1592841200221-a6898f307baa?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Moderate",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Annual",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Harvest 65-85 days after transplant",
+      "notes": "In hot climates like Sindh/Punjab, sow seeds in September-October or February to avoid extreme summer midday heat above 40°C."
+    },
+    "watering": {
+      "summer": "Daily to every other day",
+      "winter": "2-3 times per week",
+      "method": "Water at the soil base in early morning; keep foliage dry to deter fungal blight.",
+      "overwaterSigns": "Cracked fruit skins, yellowing lower foliage, waterlogged roots.",
+      "underwaterSigns": "Wilting daytime foliage, dropped blossoms, blossom-end rot."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Requires intense unobstructed sunlight to power heavy flowering and sugar development in fruit."
+    },
+    "soil": {
+      "type": "Rich, loamy, compost-heavy soil",
+      "phRange": "6.0 - 6.8",
+      "drainage": "Deep, moisture-retentive yet free-draining",
+      "mix": "40% topsoil, 40% aged compost/manure, 20% perlite or river sand"
+    },
+    "environment": {
+      "tempRange": "18°C - 30°C (65°F - 86°F)",
+      "humidity": "Moderate (40% - 65%)",
+      "location": "Outdoor",
+      "climateZones": [
+        "Temperate",
+        "Mediterranean",
+        "Subtropical",
+        "Hot Arid (Autumn/Winter/Spring)"
+      ],
+      "frostTolerance": "None (frost sensitive)"
+    },
+    "care": {
+      "fertilizer": "Balanced NPK when young; switch to high potassium (potash) and calcium when flowers develop.",
+      "pruning": "Prune suckers (side shoots in leaf axils) on indeterminate varieties; stake securely.",
+      "repotting": "Transplant seedlings deeply up to the first set of true leaves into 5+ gallon containers."
+    },
+    "problems": [
+      {
+        "issue": "Blossom end rot (dark sunken leathery bottom on fruits)",
+        "cause": "Calcium deficiency exacerbated by irregular watering cycles",
+        "fix": "Water consistently and deeply; mulch soil to preserve steady moisture and amend with bone meal."
+      },
+      {
+        "issue": "Early blight (brown concentric rings on lower leaves)",
+        "cause": "Fungal spore splash from soil",
+        "fix": "Remove infected lower foliage, mulch soil base, and spray organic neem oil or copper fungicide."
+      }
+    ]
+  },
+  {
+    "id": "chili-pepper",
+    "commonName": "Chili Pepper (Green Chili)",
+    "scientificName": "Capsicum annuum",
+    "family": "Solanaceae",
+    "category": "Vegetables",
+    "description": "A high-yielding, sun-loving spice producer that thrives across warm regions. Yields fiery, crisp green to red peppers loaded with capsaicin and culinary vitality.",
+    "imageUrl": "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": false,
+    "lifespan": "Short-lived Perennial (often grown as Annual)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "70-90 days after planting",
+      "notes": "Thrives exceptionally well in hot arid climates such as Pakistan, South Asia, and the Mediterranean."
+    },
+    "watering": {
+      "summer": "Every 1-2 days",
+      "winter": "Twice a week",
+      "method": "Water thoroughly when top inch is dry; reduce slightly when peppers ripen to intensify heat.",
+      "overwaterSigns": "Stunted growth, pale yellow leaves, blossom drop.",
+      "underwaterSigns": "Drooping leaves, wrinkled pepper pods, dry cracked soil."
+    },
+    "light": {
+      "type": "Full Direct Sun",
+      "hoursPerDay": "6-8 hours",
+      "notes": "Chili loves warmth and bright sunshine; can withstand high summer heat if well-watered."
+    },
+    "soil": {
+      "type": "Fertile, loamy, well-draining garden soil",
+      "phRange": "6.0 - 7.0",
+      "drainage": "Well-draining",
+      "mix": "50% garden loam, 30% decomposed cow manure or vermicompost, 20% sand"
+    },
+    "environment": {
+      "tempRange": "20°C - 35°C (68°F - 95°F)",
+      "humidity": "Moderate (40% - 60%)",
+      "location": "Outdoor",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Tropical",
+        "Mediterranean"
+      ],
+      "frostTolerance": "None (dies at first frost)"
+    },
+    "care": {
+      "fertilizer": "Feed with compost tea or tomato/pepper fertilizer every 3 weeks once blooms appear.",
+      "pruning": "Pinch the main stem tip when 15 cm tall to encourage a bushier structure with more fruit branches.",
+      "repotting": "Plant into 10-12 inch pots with ample drainage holes."
+    },
+    "problems": [
+      {
+        "issue": "Leaf curl and distortion",
+        "cause": "Thrips, aphids, or chili leaf curl virus",
+        "fix": "Spray organic neem oil extract with liquid soap on undersides of leaves weekly."
+      },
+      {
+        "issue": "Flower buds falling before setting fruit",
+        "cause": "Extreme temperature spikes (>38°C) or erratic soil moisture",
+        "fix": "Provide light 30% shade cloth during hottest midday summer heat and mulch the container root zone."
+      }
+    ]
+  },
+  {
+    "id": "mint",
+    "commonName": "Spearmint / Peppermint (Pudina)",
+    "scientificName": "Mentha spicata",
+    "family": "Lamiaceae",
+    "category": "Herbs",
+    "description": "An invigorating, vigorously spreading herb celebrated worldwide for refreshing beverages, chutneys, teas, and desserts. Known for its cool aromatic menthol fragrance.",
+    "imageUrl": "https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        8,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Continuous harvest of tender tips spring through autumn",
+      "notes": "Always plant in a dedicated container to prevent invasive underground runners from overtaking your garden beds."
+    },
+    "watering": {
+      "summer": "Daily in hot climates",
+      "winter": "Every 2-3 days",
+      "method": "Keep soil evenly moist. Mint dislikes drought and responds with immediate wilting.",
+      "overwaterSigns": "Black rotting stems at the base, yellow soggy lower leaves.",
+      "underwaterSigns": "Sudden leaf collapse, brittle brown lower foliage, limp stems."
+    },
+    "light": {
+      "type": "Partial Shade to Morning Sun",
+      "hoursPerDay": "4-6 hours",
+      "notes": "Prefers gentle morning sun and light afternoon shade, particularly in hot, arid summer regions."
+    },
+    "soil": {
+      "type": "Moist, rich, organic loam",
+      "phRange": "6.0 - 7.0",
+      "drainage": "Moisture-retentive yet free-draining",
+      "mix": "50% garden soil, 30% compost or leaf mold, 20% cocopeat"
+    },
+    "environment": {
+      "tempRange": "15°C - 30°C (60°F - 86°F)",
+      "humidity": "Moderate to high (45% - 70%)",
+      "location": "Outdoor / Sunny Kitchen Windowsill",
+      "climateZones": [
+        "Temperate",
+        "Mediterranean",
+        "Subtropical",
+        "Hot Arid"
+      ],
+      "frostTolerance": "High (roots survive freezing winter dormancy)"
+    },
+    "care": {
+      "fertilizer": "Light dressing of worm castings or diluted liquid seaweed extract once monthly.",
+      "pruning": "Regularly harvest the top leaf sets to trigger bushy lateral growth; shear flowers when they form.",
+      "repotting": "Divide root runner clumps every spring to rejuvenate vigor."
+    },
+    "problems": [
+      {
+        "issue": "Powdery white residue on leaves",
+        "cause": "Powdery mildew fungus in humid, stagnant airflow",
+        "fix": "Trim affected stems, ensure plenty of ventilation, and water early morning at soil level."
+      },
+      {
+        "issue": "Leggy, thin stems with sparse leaves",
+        "cause": "Insufficient light or neglected harvesting",
+        "fix": "Cut back hard to 2 inches above the soil line and relocate to brighter light."
+      }
+    ]
+  },
+  {
+    "id": "sweet-basil",
+    "commonName": "Sweet Basil",
+    "scientificName": "Ocimum basilicum",
+    "family": "Lamiaceae",
+    "category": "Herbs",
+    "description": "The quintessential culinary herb of Mediterranean cuisine and companion gardening. Delivers sweet, peppery, clove-like aromatic leaves ideal for pestos, salads, and pastas.",
+    "imageUrl": "/plants/sweet-basil.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Annual",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Continuous harvest 30-60 days after seed germination",
+      "notes": "Plant alongside tomatoes to enhance tomato flavor and deter hornworms and whiteflies."
+    },
+    "watering": {
+      "summer": "Daily or every other day",
+      "winter": "Twice a week (indoor)",
+      "method": "Water deeply at the base when the top 1 inch of soil feels dry. Never let roots sit in waterlogged mud.",
+      "overwaterSigns": "Translucent yellow lower leaves, root rot, fungal damping-off.",
+      "underwaterSigns": "Dramatic total plant wilting; leaves recover rapidly when promptly rehydrated."
+    },
+    "light": {
+      "type": "Full Sun to Gentle Afternoon Shade",
+      "hoursPerDay": "6-8 hours",
+      "notes": "Needs warm sunshine; in extreme 40°C+ summer heat, provide light dappled afternoon shade."
+    },
+    "soil": {
+      "type": "Rich, aerated, well-drained soil",
+      "phRange": "6.0 - 7.5",
+      "drainage": "Well-draining",
+      "mix": "40% potting mix, 30% compost, 30% perlite"
+    },
+    "environment": {
+      "tempRange": "20°C - 32°C (68°F - 90°F)",
+      "humidity": "Moderate (40% - 60%)",
+      "location": "Outdoor / Bright Windowsill",
+      "climateZones": [
+        "Mediterranean",
+        "Subtropical",
+        "Temperate",
+        "Hot Arid (Autumn & Spring)"
+      ],
+      "frostTolerance": "None (dies instantly at frost)"
+    },
+    "care": {
+      "fertilizer": "Feed with half-strength fish emulsion or organic liquid kelp every 3-4 weeks.",
+      "pruning": "Regularly pinch flower buds as soon as they form to keep leaves tender and sweet.",
+      "repotting": "Pot seedlings into 8-inch containers with drainage holes."
+    },
+    "problems": [
+      {
+        "issue": "Bitter tasting, tough leaves",
+        "cause": "Plant has begun flowering and setting seed",
+        "fix": "Pinch off all flower spikes immediately to redirect energy back to leaf production."
+      },
+      {
+        "issue": "Brown patches on leaves and yellow veining",
+        "cause": "Downy mildew fungal infection",
+        "fix": "Avoid overhead watering; space plants for maximum airflow and remove symptomatic leaves."
+      }
+    ],
+    "gallery": [
+      "/plants/sweet-basil.jpg",
+      "/plants/sweet-basil-bush.jpg",
+      "/plants/sweet-basil-purple.jpg"
+    ]
+  },
+  {
+    "id": "tulsi",
+    "commonName": "Tulsi / Holy Basil",
+    "scientificName": "Ocimum tenuiflorum (syn. Ocimum sanctum)",
+    "family": "Lamiaceae",
+    "category": "Herbs",
+    "description": "Holy Basil (Tulsi) is a revered aromatic and medicinal herb celebrated in Ayurveda. Known as an adaptogen that fights colds, eases inflammation, relieves stress, promotes oral health, and protects the heart, its fragrant clove-spiced leaves thrive in warm sunny gardens and patio planters.",
+    "imageUrl": "/plants/tulsi.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": true,
+    "lifespan": "Short-lived Perennial",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Year-round leaf harvesting in warm climates",
+      "notes": "Sprouts enthusiastically in warm monsoon and spring weather; sacred in traditional courtyards."
+    },
+    "watering": {
+      "summer": "Daily in warm climates",
+      "winter": "Every 3-4 days",
+      "method": "Keep soil lightly moist; allow top 1 inch to dry between waterings. Use room-temperature water.",
+      "overwaterSigns": "Yellowing foliage, drooping stems, fungal root decay.",
+      "underwaterSigns": "Curling dry leaves, premature seed spike formation, brittle stems."
+    },
+    "light": {
+      "type": "Full Sun to Partial Sun",
+      "hoursPerDay": "6+ hours",
+      "notes": "Loves hot sun. Morning direct sun combined with gentle late afternoon light produces the highest essential oil concentration."
+    },
+    "soil": {
+      "type": "Rich, well-draining loamy potting soil",
+      "phRange": "6.0 - 7.5",
+      "drainage": "Well-draining",
+      "mix": "50% garden loam, 30% aged cow dung or compost, 20% coarse sand"
+    },
+    "environment": {
+      "tempRange": "20°C - 35°C (68°F - 95°F)",
+      "humidity": "Moderate to high (40% - 70%)",
+      "location": "Outdoor / Sunny Balcony",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Hot Arid (Sindh/Punjab)",
+        "Warm Temperate"
+      ],
+      "frostTolerance": "Very Low (bring indoors or cover when temps drop under 12°C / 54°F)"
+    },
+    "care": {
+      "fertilizer": "Top dress with aged compost or vermicompost every 4-6 weeks.",
+      "pruning": "Regularly prune the apical flowering spikes (manjaris) to promote a bushy crown.",
+      "repotting": "Repot annually into a slightly larger clay pot with fresh potting soil."
+    },
+    "problems": [
+      {
+        "issue": "Leaf blackening and dropping during winter",
+        "cause": "Cold shock, morning frost, or excessive cold watering",
+        "fix": "Shift to a sheltered, warm balcony or indoors; reduce watering frequency during cool spells."
+      },
+      {
+        "issue": "Tiny webbed patches and speckled pale leaves",
+        "cause": "Spider mites in dry, dusty weather",
+        "fix": "Hose leaves gently with water and spray neem oil solution under leaf surfaces."
+      }
+    ],
+    "gallery": [
+      "/plants/tulsi.jpg",
+      "/plants/tulsi-bush.jpg",
+      "/plants/tulsi-leaf.jpg"
+    ]
+  },
+  {
+    "id": "rose",
+    "commonName": "Garden Rose (Gulab)",
+    "scientificName": "Rosa hybrida / Rosa damascena",
+    "family": "Rosaceae",
+    "category": "Flowers",
+    "description": "Garden roses (Gulab) are popular ornamental hybrid shrubs renowned for their full, multi-petaled, sumptuously perfumed blooms. From classic rose gardens and climbing pergolas to container planters, their velvety flowers in rich pinks, peaches, creams, and reds thrive in sunny, nutrient-rich garden beds.",
+    "imageUrl": "/plants/rose.jpg",
+    "difficulty": "Moderate",
+    "growthSpeed": "Moderate",
+    "petSafe": true,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        10,
+        11,
+        1,
+        2,
+        3
+      ],
+      "bloomOrHarvest": "Winter through Spring in subtropical/arid regions; Summer in temperate zones",
+      "notes": "In hot regions (Pakistan/Sindh/Punjab), winter (Dec-March) is the peak blooming showstopper season."
+    },
+    "watering": {
+      "summer": "Daily to every other day",
+      "winter": "Twice a week",
+      "method": "Deep, slow watering at the base around the drip line. Avoid wetting buds and foliage directly.",
+      "overwaterSigns": "Chlorotic yellow leaves, root suffocation, fungal black spots.",
+      "underwaterSigns": "Flower bud wilt, crispy curled petals, dry crinkled leaves."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8 hours",
+      "notes": "Requires intense direct sun for dense bud formation and vibrant petal pigmentation."
+    },
+    "soil": {
+      "type": "Rich, well-aerated loamy soil high in organic matter",
+      "phRange": "6.0 - 6.5",
+      "drainage": "Well-drained with good moisture retention",
+      "mix": "40% clay loam, 30% decomposed farmyard manure, 20% leaf compost, 10% sand"
+    },
+    "environment": {
+      "tempRange": "15°C - 30°C (59°F - 86°F)",
+      "humidity": "Moderate (40% - 60%)",
+      "location": "Outdoor",
+      "climateZones": [
+        "Temperate",
+        "Mediterranean",
+        "Subtropical",
+        "Hot Arid (Winter Flushes)"
+      ],
+      "frostTolerance": "Moderate to High (dormant in winter frosts)"
+    },
+    "care": {
+      "fertilizer": "Apply balanced rose food with bone meal and mustard cake powder before blooming season.",
+      "pruning": "Prune hard in autumn (October/November in subtropical zones) by removing dead wood and crossing canes.",
+      "repotting": "Plant bare-root or potted shrubs into deep containers (at least 16-18 inches deep)."
+    },
+    "problems": [
+      {
+        "issue": "Black circular spots on leaves surrounded by yellowing",
+        "cause": "Black spot fungus (Diplocarpon rosae) exacerbated by overhead splashing",
+        "fix": "Remove infected leaves, ensure good airflow, apply copper or sulfur-based organic fungicide."
+      },
+      {
+        "issue": "White powdery coating on new shoots and buds",
+        "cause": "Powdery mildew during dry days with humid nights",
+        "fix": "Spray potassium bicarbonate or neem spray early in the morning."
+      }
+    ],
+    "gallery": [
+      "/plants/rose.jpg",
+      "/plants/rose-pink.jpg",
+      "/plants/rose-cream.jpg",
+      "/plants/rose-varieties.jpg"
+    ]
+  },
+  {
+    "id": "marigold",
+    "commonName": "Marigold (Genda / Tagetes)",
+    "scientificName": "Tagetes erecta / Tagetes patula",
+    "family": "Asteraceae",
+    "category": "Flowers",
+    "description": "Marigolds (Genda) are cheerful, sun-loving flowering annuals known for their dense, ruffled pompom blossoms in blazing shades of deep orange, gold, and bronze. Highly revered for cultural celebrations and companion planting, their aromatic leaves naturally deter pests like root-knot nematodes and aphids.",
+    "imageUrl": "/plants/marigold.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Annual",
+    "season": {
+      "bestMonths": [
+        8,
+        9,
+        10,
+        2,
+        3
+      ],
+      "bloomOrHarvest": "Prodigious blooming from autumn throughout winter and spring",
+      "notes": "Extremely popular for festival decorations, winter landscaping, and organic vegetable companion planting."
+    },
+    "watering": {
+      "summer": "Every 1-2 days",
+      "winter": "Twice a week",
+      "method": "Water around the base when the top inch of soil is dry. Avoid heavy overhead spraying.",
+      "overwaterSigns": "Stem rot at ground level, mushy brown flowers, root rot.",
+      "underwaterSigns": "Limp hanging stems, premature petal shriveling, dry crispy foliage."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6+ hours",
+      "notes": "Thrives in blazing sun; shade causes leggy stretching and meager flower production."
+    },
+    "soil": {
+      "type": "Well-draining, moderately fertile garden soil",
+      "phRange": "6.0 - 7.5",
+      "drainage": "Well-drained",
+      "mix": "50% garden loam, 25% compost, 25% river sand"
+    },
+    "environment": {
+      "tempRange": "15°C - 32°C (59°F - 90°F)",
+      "humidity": "Low to moderate (30% - 50%)",
+      "location": "Outdoor",
+      "climateZones": [
+        "Hot Arid (Winter)",
+        "Subtropical",
+        "Mediterranean",
+        "Temperate"
+      ],
+      "frostTolerance": "Low (frost tender)"
+    },
+    "care": {
+      "fertilizer": "Avoid excess nitrogen (which creates all leaves and no blooms); feed with phosphorus-rich compost.",
+      "pruning": "Deadhead spent blossoms weekly to stimulate continuous waves of fresh flowers.",
+      "repotting": "Ideal for 8-10 inch pots, window boxes, and sunny garden borders."
+    },
+    "problems": [
+      {
+        "issue": "Spider mite webbing and dusty speckled leaves",
+        "cause": "Hot, dry conditions",
+        "fix": "Spray with a strong stream of cold water and apply neem oil on leaf undersides."
+      },
+      {
+        "issue": "Damping off in young seedlings",
+        "cause": "Excess moisture and low air circulation",
+        "fix": "Use sterile seed starting mix, bottom-water, and provide adequate ventilation."
+      }
+    ],
+    "gallery": [
+      "/plants/marigold.jpg",
+      "/plants/marigold-orange.jpg",
+      "/plants/marigold-yellow.jpg"
+    ]
+  },
+  {
+    "id": "jasmine",
+    "commonName": "Arabian Jasmine (Motia / Mogra)",
+    "scientificName": "Jasminum sambac",
+    "family": "Oleaceae",
+    "category": "Flowers",
+    "description": "Jasminum sambac, beloved as Arabian Jasmine, Motia, or Mogra, is an intensely fragrant evergreen flowering shrub or scrambler. Adored across South Asia and tropical regions for its star-shaped and double-petaled snowy white blossoms, it is famously woven into garlands, used in perfumery, and infuses jasmine green tea.",
+    "imageUrl": "/plants/jasmine.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": true,
+    "lifespan": "Perennial Shrub",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Heavy flush from late March through October",
+      "notes": "Flowers open at dusk, releasing an unforgettable romantic scent that lingers through the night."
+    },
+    "watering": {
+      "summer": "Daily in hot summers",
+      "winter": "Every 3-4 days",
+      "method": "Deep watering at the root zone; keep soil consistently moist during hot flowering months.",
+      "overwaterSigns": "Yellow leaves that drop easily, soggy roots, moldy soil surface.",
+      "underwaterSigns": "Drooping branches, shriveled flower buds that drop before unfurling."
+    },
+    "light": {
+      "type": "Full Sun to Partial Sun",
+      "hoursPerDay": "5-7 hours",
+      "notes": "Blooms profusely under direct warm sunshine; handles intense heat well if soil moisture is maintained."
+    },
+    "soil": {
+      "type": "Rich, loamy, slightly acidic to neutral soil",
+      "phRange": "6.0 - 7.0",
+      "drainage": "Well-drained with good moisture capacity",
+      "mix": "50% garden loam, 30% leaf compost or well-rotted manure, 20% sand"
+    },
+    "environment": {
+      "tempRange": "20°C - 38°C (68°F - 100°F)",
+      "humidity": "Moderate to high (50% - 75%)",
+      "location": "Outdoor / Sunny Balcony",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Hot Arid (Sindh/Punjab)",
+        "Mediterranean"
+      ],
+      "frostTolerance": "Low (protect or mulch in cold frost snaps)"
+    },
+    "care": {
+      "fertilizer": "Feed with mustard cake fertilizer or organic flower booster every 2-3 weeks in peak summer.",
+      "pruning": "Prune back lightly after each flowering flush to stimulate fresh flower-bearing stems.",
+      "repotting": "Repot every 2 years in late winter (February) into a 12-14 inch pot."
+    },
+    "problems": [
+      {
+        "issue": "Bud drop before opening",
+        "cause": "Erratic watering or sudden temperature fluctuation",
+        "fix": "Maintain steady moisture; avoid letting the soil dry out to the point of root stress."
+      },
+      {
+        "issue": "Leaf yellowing with green veins (chlorosis)",
+        "cause": "Iron deficiency in alkaline soils",
+        "fix": "Apply chelated iron foliar spray and mix in composted cow manure to lower soil pH."
+      }
+    ],
+    "gallery": [
+      "/plants/jasmine.jpg",
+      "/plants/jasmine-bush.jpg",
+      "/plants/jasmine-motia.jpg"
+    ]
+  },
+  {
+    "id": "mango",
+    "commonName": "Mango Tree (Aam)",
+    "scientificName": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "category": "Fruit Trees",
+    "description": "Mangifera indica, the majestic Mango Tree, is famously hailed as the King of Fruits. An evergreen canopy tree thriving in warm, sun-drenched climates, it produces clusters of intensely aromatic, succulent fruits that shift from fresh green to sweet golden-red blush at maturity.",
+    "imageUrl": "/plants/mango.jpg",
+    "difficulty": "Moderate",
+    "growthSpeed": "Slow to Moderate",
+    "petSafe": false,
+    "lifespan": "Long-lived Perennial (100+ years)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Flowering in Jan-Feb; harvest peak May through August",
+      "notes": "Prized varieties like Sindhri, Chaunsa, and Anwar Ratol thrive in the blazing summers of Pakistan and India."
+    },
+    "watering": {
+      "summer": "Deep watering every 3-5 days for young trees",
+      "winter": "Every 10-14 days",
+      "method": "Water deeply in a basin around the drip line. Withhold heavy watering when flowers set to prevent blossom drop.",
+      "overwaterSigns": "Yellow leaves, root asphyxiation, blossom drop.",
+      "underwaterSigns": "Stunted new shoot flushes, curled leathery leaves, premature fruit drop."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "8+ hours",
+      "notes": "Demands maximum unhindered sunlight; cannot fruit in shaded environments."
+    },
+    "soil": {
+      "type": "Deep, fertile alluvial loam with good drainage",
+      "phRange": "5.5 - 7.5",
+      "drainage": "Deep and well-drained (cannot tolerate waterlogged subsoil)",
+      "mix": "60% native alluvial soil, 30% decomposed cow manure, 10% coarse sand"
+    },
+    "environment": {
+      "tempRange": "24°C - 44°C (75°F - 111°F)",
+      "humidity": "Moderate during fruit set; dry during harvest",
+      "location": "Outdoor Garden / Orchard",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Tropical"
+      ],
+      "frostTolerance": "Very Low (young trees can die below 2°C / 35°F)"
+    },
+    "care": {
+      "fertilizer": "Apply balanced NPK with zinc, iron, and boron micronutrients in late winter and post-harvest.",
+      "pruning": "Prune crossing center branches after harvest to allow sunlight penetration into canopy.",
+      "repotting": "Dwarf cultivars can be kept in massive 25-gallon containers for 4-5 years before ground transplant."
+    },
+    "problems": [
+      {
+        "issue": "Powdery mildew on flower panicles",
+        "cause": "High morning humidity during flowering stage",
+        "fix": "Spray wettable sulfur or neem fungicide before flowers open fully."
+      },
+      {
+        "issue": "Mango malformation (bunchy deformed shoots)",
+        "cause": "Fungal pathogen Fusarium and eriophyid mites",
+        "fix": "Prune out deformed panicles 15 cm into healthy wood and destroy infected tissue."
+      }
+    ],
+    "gallery": [
+      "/plants/mango.jpg",
+      "/plants/mango-green.jpg",
+      "/plants/mango-tree.jpg"
+    ]
+  },
+  {
+    "id": "lemon",
+    "commonName": "Lemon / Kagzi Nimbu",
+    "scientificName": "Citrus x limon",
+    "family": "Rutaceae",
+    "category": "Fruit Trees",
+    "description": "Citrus x limon, known as the Lemon or Kagzi Nimbu, is a prolific evergreen citrus tree bearing sweet-perfumed white blossoms and juicy, vitamin C-rich golden yellow fruits. Highly versatile for fresh juices, culinary dressings, and container patio gardening.",
+    "imageUrl": "/plants/lemon.jpg",
+    "difficulty": "Moderate",
+    "growthSpeed": "Moderate",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        8,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Blooms spring & autumn; year-round fruiting in warm regions",
+      "notes": "Grafts and air-layered saplings produce fruit within 1-2 years and excel in large balcony containers."
+    },
+    "watering": {
+      "summer": "Every 2-3 days",
+      "winter": "Once a week",
+      "method": "Water thoroughly until water drains from the base, then let top 2 inches dry before watering again.",
+      "overwaterSigns": "Sudden yellowing and massive drop of green leaves, root rot.",
+      "underwaterSigns": "Leaf curling inwards along the midrib, dry papery leaf drop."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Needs abundant direct sunlight to synthesize citrus oils and set fruit."
+    },
+    "soil": {
+      "type": "Slightly acidic, gritty, well-draining citrus mix",
+      "phRange": "5.5 - 6.5",
+      "drainage": "Fast-draining",
+      "mix": "40% potting soil, 30% perlite or pumice, 30% compost and aged pine bark"
+    },
+    "environment": {
+      "tempRange": "16°C - 35°C (60°F - 95°F)",
+      "humidity": "Moderate (45% - 65%)",
+      "location": "Outdoor / Large Balcony Container",
+      "climateZones": [
+        "Mediterranean",
+        "Subtropical",
+        "Hot Arid (with summer mulch)"
+      ],
+      "frostTolerance": "Low (protect below 0°C / 32°F)"
+    },
+    "care": {
+      "fertilizer": "Apply dedicated citrus fertilizer containing nitrogen, magnesium, iron, and zinc every 6 weeks.",
+      "pruning": "Trim rootstock suckers (shoots below graft union) and thin out congested inner growth.",
+      "repotting": "Repot every 2-3 years into a pot 2-4 inches larger with superior drainage."
+    },
+    "problems": [
+      {
+        "issue": "Silvery serpentine tunnels on leaves (Citrus leafminer)",
+        "cause": "Leafminer larvae burrowing inside young foliage",
+        "fix": "Spray organic neem oil extract during early evening on young leaf flushes."
+      },
+      {
+        "issue": "Yellowing leaves with prominent dark green veins",
+        "cause": "Iron or magnesium deficiency in alkaline soil",
+        "fix": "Drench root zone with chelated iron (EDDHA or EDTA) and epsom salt solution."
+      }
+    ],
+    "gallery": [
+      "/plants/lemon.jpg",
+      "/plants/lemon-fruit.jpg",
+      "/plants/lemon-blossom.jpg"
+    ]
+  },
+  {
+    "id": "spinach",
+    "commonName": "Spinach (Palak)",
+    "scientificName": "Spinacia oleracea",
+    "family": "Amaranthaceae",
+    "category": "Vegetables",
+    "description": "A fast-growing, nutrient-dense cool-weather leafy green packed with iron, folate, and vitamins A and K. Produces tender succulent leaves for fresh salads, stews, and smoothies.",
+    "imageUrl": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Annual",
+    "season": {
+      "bestMonths": [
+        9,
+        10,
+        11,
+        1,
+        2
+      ],
+      "bloomOrHarvest": "Harvest tender leaves in 35-45 days",
+      "notes": "Grown in autumn and winter across warm subtropical/arid zones; bolts to flower if exposed to intense hot summer days."
+    },
+    "watering": {
+      "summer": "Daily (if growing heat-tolerant Malabar spinach)",
+      "winter": "Every 2-3 days",
+      "method": "Keep soil consistently moist. Avoid pooling water on tender young crowns.",
+      "overwaterSigns": "Stunted seedlings, yellow mushy foliage, damping off.",
+      "underwaterSigns": "Premature bolting (flowering stalk forms), tough bitter leaves."
+    },
+    "light": {
+      "type": "Full Sun to Partial Shade",
+      "hoursPerDay": "4-6 hours",
+      "notes": "Loves mild winter sunshine; tolerates partial shade very well in hotter regions."
+    },
+    "soil": {
+      "type": "Rich, moisture-retentive, loose garden loam",
+      "phRange": "6.5 - 7.0",
+      "drainage": "Well-drained",
+      "mix": "50% garden soil, 35% compost or vermicompost, 15% sand"
+    },
+    "environment": {
+      "tempRange": "10°C - 24°C (50°F - 75°F)",
+      "humidity": "Moderate (40% - 60%)",
+      "location": "Outdoor / Balcony Planters",
+      "climateZones": [
+        "Temperate",
+        "Subtropical (Winter)",
+        "Hot Arid (Winter Crop)"
+      ],
+      "frostTolerance": "High (tolerates light frost well)"
+    },
+    "care": {
+      "fertilizer": "Side dress with compost or mild nitrogen-rich organic fish emulsion after first harvest.",
+      "pruning": "Cut-and-come-again: harvest outer leaves first, leaving central crown to produce new foliage.",
+      "repotting": "Direct sow seeds into wide, shallow 6-8 inch deep planters."
+    },
+    "problems": [
+      {
+        "issue": "Plant shoots up tall stalks and leaves turn bitter (Bolting)",
+        "cause": "Rising spring temperatures and longer daylight hours",
+        "fix": "Sow in cooler months; provide shade cloth as weather warms and harvest outer leaves early."
+      },
+      {
+        "issue": "Yellow spots on leaf tops and fuzzy grey mold underneath",
+        "cause": "Downy mildew in overcrowded beds",
+        "fix": "Thin seedlings to 4-6 inches apart and water early in the morning at ground level."
+      }
+    ]
+  },
+  {
+    "id": "bougainvillea",
+    "commonName": "Bougainvillea (Paper Flower / Jahanumi)",
+    "scientificName": "Bougainvillea spectabilis / glabra",
+    "family": "Nyctaginaceae",
+    "category": "Flowers",
+    "description": "An iconic, sun-drenched climbing woody vine renowned for cascading canopies of vibrant, papery magenta bracts that frame archways, fences, and pergolas. Surrounding tiny, delicate white true flowers, these brilliant bracts thrive in scorching full sun, drought conditions, and heat-loving Mediterranean and subtropical climates.",
+    "imageUrl": "/plants/bougainvillea.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Perennial Woody Vine",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Spectacular flushes spring through autumn and mild winter",
+      "notes": "Blooms heaviest when kept somewhat dry and root-restricted in full scorching sun."
+    },
+    "watering": {
+      "summer": "Every 3-4 days (containers) / weekly (ground)",
+      "winter": "Every 10-14 days",
+      "method": "Soak deeply, then let soil dry out significantly. Over-watering causes dense green leaves with zero colorful flowers.",
+      "overwaterSigns": "Profuse green leaves with no color bracts, leaf drop, root rot.",
+      "underwaterSigns": "Bract drop, wilting foliage that quickly bounces back."
+    },
+    "light": {
+      "type": "Full Blazing Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Demands maximum unfiltered sun. In shaded spots it will refuse to produce colorful blooms."
+    },
+    "soil": {
+      "type": "Well-draining, gritty, sandy loam",
+      "phRange": "5.5 - 6.5",
+      "drainage": "Sharp, rapid drainage",
+      "mix": "50% garden loam, 30% coarse sand/gravel, 20% compost"
+    },
+    "environment": {
+      "tempRange": "20°C - 45°C (68°F - 113°F)",
+      "humidity": "Low to moderate (25% - 50%)",
+      "location": "Outdoor Pergola / Sunny Wall / Large Pot",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Tropical",
+        "Mediterranean"
+      ],
+      "frostTolerance": "Low (can drop leaves below 5°C / 40°F but regrows in spring)"
+    },
+    "care": {
+      "fertilizer": "Use a low-nitrogen, high-phosphorus/potassium bloom booster once monthly during growing season.",
+      "pruning": "Prune hard after flowering cycles; flowers only develop on new growth wood.",
+      "repotting": "Extremely sensitive, brittle root system; handle with gentle care when transplanting."
+    },
+    "problems": [
+      {
+        "issue": "All foliage and no colorful bracts",
+        "cause": "Too much water, too much nitrogen fertilizer, or insufficient direct sunlight",
+        "fix": "Reduce watering, stop nitrogen feeding, switch to bloom booster, and relocate to maximum sun."
+      },
+      {
+        "issue": "Bracts falling off suddenly",
+        "cause": "Root disturbance or cold draft shock",
+        "fix": "Avoid disturbing roots; shelter from cold gusty winter winds."
+      }
+    ],
+    "gallery": [
+      "/plants/bougainvillea.jpg",
+      "/plants/bougainvillea-bracts.jpg",
+      "/plants/bougainvillea-cascade.jpg"
+    ]
+  },
+  {
+    "id": "hibiscus",
+    "commonName": "Tropical Hibiscus (China Rose / Gudhal)",
+    "scientificName": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "category": "Flowers",
+    "description": "Show-stopping tropical shrub producing huge, flaring dinner-plate blooms with prominent stamens. Available in vibrant crimson, sunny yellow, coral, and pastel shades.",
+    "imageUrl": "/plants/hibiscus.jpg",
+    "gallery": [
+      "/plants/hibiscus.jpg",
+      "/plants/hibiscus-red.jpg",
+      "/plants/hibiscus-magenta.jpg"
+    ],
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": true,
+    "lifespan": "Perennial Shrub",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Continuous profuse blooms spring through late autumn",
+      "notes": "Each individual flower lasts 1-2 days, but the plant generates endless buds in steady succession."
+    },
+    "watering": {
+      "summer": "Daily in hot seasons",
+      "winter": "Twice a week",
+      "method": "Water thoroughly at the base. Likes consistent hydration without becoming waterlogged.",
+      "overwaterSigns": "Sudden yellow leaf drop, dark mushy roots.",
+      "underwaterSigns": "Buds turn yellow and drop before opening, wilting foliage."
+    },
+    "light": {
+      "type": "Full Sun to Light Afternoon Shade",
+      "hoursPerDay": "6+ hours",
+      "notes": "Blooms best in full sunshine; benefit from light dappled shade during peak 42°C+ summer afternoons."
+    },
+    "soil": {
+      "type": "Rich, fertile, organic-rich potting soil",
+      "phRange": "6.0 - 7.0",
+      "drainage": "Well-drained with good moisture holding capacity",
+      "mix": "50% rich garden soil, 30% compost/manure, 20% perlite or river sand"
+    },
+    "environment": {
+      "tempRange": "18°C - 38°C (65°F - 100°F)",
+      "humidity": "Moderate to high (50% - 75%)",
+      "location": "Outdoor / Sunny Patio",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Hot Arid (with summer hydration)"
+      ],
+      "frostTolerance": "None (protect below 5°C / 41°F)"
+    },
+    "care": {
+      "fertilizer": "Heavy feeder: prefers high potassium, moderate nitrogen, low phosphorus fertilizer (e.g. 17-5-24) monthly.",
+      "pruning": "Prune back by one-third in early spring to shape and encourage dense flowering branches.",
+      "repotting": "Repot every 2 years into a terracotta pot with drainage holes."
+    },
+    "problems": [
+      {
+        "issue": "Cottony white fluffy clusters on stems and leaf nodes",
+        "cause": "Mealybug infestation",
+        "fix": "Dab bugs with rubbing alcohol cotton swab; spray thoroughly with neem oil soap solution."
+      },
+      {
+        "issue": "Yellowing leaves with green veins",
+        "cause": "Nutrient imbalance or root bound soil",
+        "fix": "Apply chelated iron and magnesium sulfate (epsom salts) to the soil."
+      }
+    ]
+  },
+  {
+    "id": "golden-barrel-cactus",
+    "commonName": "Golden Barrel Cactus",
+    "scientificName": "Echinocactus grusonii",
+    "family": "Cactaceae",
+    "category": "Succulents",
+    "description": "A striking desert masterpiece with a ribbed spherical globe crowned in luminous golden yellow spines. An extraordinary low-maintenance architectural plant for sun-baked spots.",
+    "imageUrl": "https://images.unsplash.com/photo-1509587584298-0f3b3a3a1797?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Slow",
+    "petSafe": false,
+    "lifespan": "Perennial (30+ years)",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Mid-summer (yellow crown flowers on mature specimens)",
+      "notes": "Exceptional specimen for hot arid desert climates such as Sindh, Rajasthan, and Arizona."
+    },
+    "watering": {
+      "summer": "Every 2-3 weeks",
+      "winter": "Every 6-8 weeks (or none in cold dormancy)",
+      "method": "Soak and completely dry. Allow the pot to dry bone-dry between waterings.",
+      "overwaterSigns": "Soft, collapsing stem, brown rotting base, sudden deflation.",
+      "underwaterSigns": "Thinning ribs, slight wrinkling along ridges (rarely fatal)."
+    },
+    "light": {
+      "type": "Full Sun to Intense Sunlight",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Thrives on blazing sun. Golden spine color is most vibrant under unfiltered sunlight."
+    },
+    "soil": {
+      "type": "Super gritty, gravelly desert mix",
+      "phRange": "6.5 - 7.5",
+      "drainage": "Instantaneous drainage",
+      "mix": "60% pumice/perlite/crushed granite, 30% coarse sand, 10% organic soil"
+    },
+    "environment": {
+      "tempRange": "15°C - 45°C (59°F - 113°F)",
+      "humidity": "Extremely low (10% - 30%)",
+      "location": "Outdoor Sun / Bright Indoor Solarium",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Desert",
+        "Mediterranean"
+      ],
+      "frostTolerance": "Low (dry frost hardy to -2°C / 28°F only if bone dry)"
+    },
+    "care": {
+      "fertilizer": "Low-nitrogen cactus fertilizer once in early summer.",
+      "pruning": "No pruning required. Handle with rolled towels or cactus tongs.",
+      "repotting": "Repot only every 3-5 years when plant outgrows container width."
+    },
+    "problems": [
+      {
+        "issue": "Base turns brown and mushy",
+        "cause": "Rot from overwatering or poorly draining soil",
+        "fix": "Cut away rotten portion with a sterile blade, let wound callous for a week, and replant in gravelly mix."
+      },
+      {
+        "issue": "Corking (grey-brown rough patches on lower skin)",
+        "cause": "Natural aging process (normal if firm to the touch)",
+        "fix": "No action needed if tissue is solid and spiny."
+      }
+    ]
+  },
+  {
+    "id": "monstera-deliciosa",
+    "commonName": "Monstera Deliciosa (Swiss Cheese Plant)",
+    "scientificName": "Monstera deliciosa",
+    "family": "Araceae",
+    "category": "Indoor",
+    "description": "The ultimate statement houseplant featuring massive glossy heart-shaped leaves that develop dramatic natural holes and fenestrations as they mature. Adds instant tropical elegance.",
+    "imageUrl": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Year-round spectacular foliage growth",
+      "notes": "Give it a moss pole or wooden trellis to climb; leaves grow exponentially larger when supported vertically."
+    },
+    "watering": {
+      "summer": "Once a week",
+      "winter": "Every 10-14 days",
+      "method": "Water when top 2-3 inches of soil have dried. Empty the drip tray so roots do not sit in water.",
+      "overwaterSigns": "Sweating leaf tips (guttation), yellow lower leaves with black halos.",
+      "underwaterSigns": "Curled drooping leaves, dry crispy brown leaf margins."
+    },
+    "light": {
+      "type": "Bright Indirect Light",
+      "hoursPerDay": "5-7 hours",
+      "notes": "Loves bright filtered light; avoid harsh direct scorching afternoon sun which burns the leaves."
+    },
+    "soil": {
+      "type": "Chunky, chunky aroid mix",
+      "phRange": "5.5 - 6.5",
+      "drainage": "Excellent aeration and drainage",
+      "mix": "30% orchid bark, 30% coco coir, 20% perlite, 10% worm castings, 10% charcoal"
+    },
+    "environment": {
+      "tempRange": "18°C - 30°C (65°F - 86°F)",
+      "humidity": "High (60% - 80% preferred)",
+      "location": "Indoor / Shaded Veranda",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Indoor Temperate"
+      ],
+      "frostTolerance": "None"
+    },
+    "care": {
+      "fertilizer": "Feed with balanced 20-20-20 liquid houseplant fertilizer diluted to half strength monthly in spring/summer.",
+      "pruning": "Trim aerial roots gently or tuck them into the potting mix.",
+      "repotting": "Repot every 2 years in spring into a pot 2-3 inches wider."
+    },
+    "problems": [
+      {
+        "issue": "Solid leaves without splits or holes",
+        "cause": "Young juvenile stage or insufficient bright light",
+        "fix": "Move closer to a large bright window and provide a moss pole for climbing support."
+      },
+      {
+        "issue": "Brown crispy edges on leaves",
+        "cause": "Dry air or accumulation of tap water salts",
+        "fix": "Increase ambient room humidity with a humidifier and flush soil periodically."
+      }
+    ]
+  },
+  {
+    "id": "peace-lily",
+    "commonName": "Peace Lily",
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "category": "Indoor",
+    "description": "An exquisite low-light blooming houseplant with deep emerald foliage and serene white flower spathes. NASA-certified air-purifying champion that communicates watering needs clearly.",
+    "imageUrl": "/plants/peace-lily.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Spring and autumn bloom flushes",
+      "notes": "Dramatic drama queen: it droops gracefully when thirsty and perk up within an hour of watering."
+    },
+    "watering": {
+      "summer": "Every 4-6 days",
+      "winter": "Every 7-10 days",
+      "method": "Water as soon as the top inch of soil feels dry or the plant begins to show a slight gentle droop.",
+      "overwaterSigns": "Black leaf tips, constantly damp yellowing leaves, base rot.",
+      "underwaterSigns": "Dramatic total collapse of foliage (drooping completely flat)."
+    },
+    "light": {
+      "type": "Low to Moderate Indirect Light",
+      "hoursPerDay": "3-5 hours",
+      "notes": "Handles shade well; brighter indirect light produces far more white blooms."
+    },
+    "soil": {
+      "type": "Peat-based, moisture-retentive potting mix",
+      "phRange": "5.5 - 6.5",
+      "drainage": "Moist yet free-draining",
+      "mix": "50% peat moss/coco coir, 30% perlite, 20% compost"
+    },
+    "environment": {
+      "tempRange": "18°C - 28°C (65°F - 82°F)",
+      "humidity": "Moderate to high (50% - 70%)",
+      "location": "Indoor / Office / Bathroom",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Temperate Indoor"
+      ],
+      "frostTolerance": "None"
+    },
+    "care": {
+      "fertilizer": "Apply dilute balanced liquid fertilizer every 6 weeks in spring and summer.",
+      "pruning": "Cut spent brown flower stalks at the base of the plant.",
+      "repotting": "Divide clumps and repot every 2 years in spring."
+    },
+    "problems": [
+      {
+        "issue": "Brown crispy leaf tips",
+        "cause": "Fluoride or chlorine sensitivity in municipal tap water, or dry air",
+        "fix": "Use filtered, distilled, or rainwater, and mist foliage occasionally."
+      },
+      {
+        "issue": "Plant fails to produce white flowers",
+        "cause": "Light levels are too dim",
+        "fix": "Relocate to a brighter room with ample indirect sunlight."
+      }
+    ],
+    "gallery": [
+      "/plants/peace-lily.jpg",
+      "/plants/peace-lily-indoor.jpg",
+      "/plants/peace-lily-flower.jpg"
+    ]
+  },
+  {
+    "id": "lavender",
+    "commonName": "English / French Lavender",
+    "scientificName": "Lavandula angustifolia",
+    "family": "Lamiaceae",
+    "category": "Herbs",
+    "description": "An intoxicating Mediterranean sub-shrub with silvery needle foliage and aromatic spikes of violet-blue blooms. Renowned for its calming scent, culinary charm, and pollinator magnets.",
+    "imageUrl": "/plants/lavender.jpg",
+    "difficulty": "Moderate",
+    "growthSpeed": "Moderate",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Late spring through summer",
+      "notes": "Demands sharp drainage and dry heat; struggles in soggy high-humidity conditions."
+    },
+    "watering": {
+      "summer": "Once a week (containers) / Every 10-14 days (ground)",
+      "winter": "Every 2-3 weeks",
+      "method": "Water at the soil base only when soil is dry 2 inches down. Keep crowns and leaves dry.",
+      "overwaterSigns": "Black rotting stems at the base, yellow wilting foliage, sudden plant demise.",
+      "underwaterSigns": "Drooping flower heads, dry crispy grey foliage."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Needs intense, hot direct sunshine to produce high levels of fragrant essential oils."
+    },
+    "soil": {
+      "type": "Lean, sandy, alkaline, gravelly soil",
+      "phRange": "6.7 - 7.8",
+      "drainage": "Extremely fast, sharp drainage",
+      "mix": "40% coarse sand/gravel, 30% garden loam, 20% perlite, 10% compost (add agricultural lime if acidic)"
+    },
+    "environment": {
+      "tempRange": "15°C - 35°C (59°F - 95°F)",
+      "humidity": "Low (dry air preferred)",
+      "location": "Outdoor / Terracotta Balcony Pot",
+      "climateZones": [
+        "Mediterranean",
+        "Hot Arid (Autumn/Spring)",
+        "Temperate"
+      ],
+      "frostTolerance": "High (English lavender hardy to -15°C / 5°F)"
+    },
+    "care": {
+      "fertilizer": "Low feeder: avoid heavy fertilizers; a light handful of bone meal in spring is sufficient.",
+      "pruning": "Prune back by one-third right after flowering to maintain a compact mounded shape (never cut into old bare wood).",
+      "repotting": "Plant in unglazed terracotta pots with gravel at the base for superior aeration."
+    },
+    "problems": [
+      {
+        "issue": "Sudden wilting and stem collapse",
+        "cause": "Root rot (Phytophthora) caused by damp, heavy soil or poor drainage",
+        "fix": "Replant in gritty gravelly mix with higher sand ratio and cut back watering drastically."
+      },
+      {
+        "issue": "Sprawling, woody, sparse center",
+        "cause": "Lack of annual post-bloom pruning",
+        "fix": "Lightly trim fresh green growth in autumn to stimulate dense basal shoots."
+      }
+    ],
+    "gallery": [
+      "/plants/lavender.jpg",
+      "/plants/lavender-field.jpg",
+      "/plants/lavender-bundle.jpg"
+    ]
+  },
+  {
+    "id": "sunflower",
+    "commonName": "Sunflower (Surajmukhi)",
+    "scientificName": "Helianthus annuus",
+    "family": "Asteraceae",
+    "category": "Flowers",
+    "description": "The joyful giant of the summer garden. Helianthus tracks the movement of the sun across the sky and produces giant golden flower heads packed with nutritious, edible seeds.",
+    "imageUrl": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Annual",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Blooms 65-80 days after direct seeding",
+      "notes": "Grown in early spring or monsoon season; towering varieties can reach 10-12 feet tall."
+    },
+    "watering": {
+      "summer": "Every 1-2 days",
+      "winter": "Twice a week",
+      "method": "Water deeply 4-6 inches from the stem. Deep roots require infrequent but thorough soaking.",
+      "overwaterSigns": "Yellow lower leaves, weak fragile stems, root fungal decay.",
+      "underwaterSigns": "Hanging wilting foliage, premature flower droop."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Heliotropic: requires full unobstructed sun to open its magnificent golden disks."
+    },
+    "soil": {
+      "type": "Deep, nutrient-rich, well-draining garden soil",
+      "phRange": "6.0 - 7.5",
+      "drainage": "Well-drained with deep taproot capacity",
+      "mix": "60% rich garden soil, 30% compost/manure, 10% sand"
+    },
+    "environment": {
+      "tempRange": "20°C - 35°C (68°F - 95°F)",
+      "humidity": "Moderate (30% - 60%)",
+      "location": "Outdoor Garden Bed / Deep Tub",
+      "climateZones": [
+        "Temperate",
+        "Subtropical",
+        "Hot Arid",
+        "Mediterranean"
+      ],
+      "frostTolerance": "Low (mildly frost tender)"
+    },
+    "care": {
+      "fertilizer": "Apply balanced organic fertilizer or potassium-rich compost tea when flower bud appears.",
+      "pruning": "Stake tall giant varieties securely against strong winds.",
+      "repotting": "Direct sow seeds into the ground or 5-gallon tubs (sensitive taproots dislike transplant shock)."
+    },
+    "problems": [
+      {
+        "issue": "Stem toppling over in wind",
+        "cause": "Shallow watering resulting in superficial root system or heavy winds",
+        "fix": "Stake with sturdy bamboo canes and water deeply to encourage deep taproot development."
+      },
+      {
+        "issue": "White powdery fungal growth on leaves",
+        "cause": "Powdery mildew in late season",
+        "fix": "Space plants generously for air movement; apply organic neem spray."
+      }
+    ]
+  },
+  {
+    "id": "neem-tree",
+    "commonName": "Neem Tree (Indian Lilac)",
+    "scientificName": "Azadirachta indica",
+    "family": "Meliaceae",
+    "category": "Outdoor",
+    "description": "Nature's organic pharmacy. A legendary, ultra-hardy drought-resistant shade tree with potent medicinal, antibacterial, and natural pest-repellent qualities in every leaf, seed, and bark.",
+    "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Long-lived Perennial (200+ years)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Fragrant white blooms in spring; berries in summer",
+      "notes": "Native to the hot arid regions of Pakistan and India; thrives even in poor, rocky, barren soils."
+    },
+    "watering": {
+      "summer": "Weekly for young trees; fully drought-tolerant once established",
+      "winter": "Every 2-3 weeks",
+      "method": "Deep watering around the base; established trees thrive purely on natural seasonal rains.",
+      "overwaterSigns": "Yellow dropping leaves in waterlogged clay.",
+      "underwaterSigns": "Slight leaf shedding in extreme drought (tree bounces back with rain)."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Loves intense tropical and desert sun. Flourishes in high temperatures exceeding 45°C."
+    },
+    "soil": {
+      "type": "Tolerates poor, stony, sandy, saline or clay soils",
+      "phRange": "6.2 - 8.5",
+      "drainage": "Good drainage (cannot endure prolonged waterlogging)",
+      "mix": "70% native garden soil, 20% sand, 10% compost"
+    },
+    "environment": {
+      "tempRange": "20°C - 48°C (68°F - 118°F)",
+      "humidity": "Low to high (extremely adaptable)",
+      "location": "Outdoor Shade Tree / Street Garden",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Tropical"
+      ],
+      "frostTolerance": "Low (frost sensitive when young; mature trees tolerate brief cold)"
+    },
+    "care": {
+      "fertilizer": "Requires minimal feeding; occasional compost top-dressing accelerates early growth.",
+      "pruning": "Prune lower branches during young stage to shape a high canopy for outdoor garden shade.",
+      "repotting": "Transplant saplings into ground once 3-4 feet tall."
+    },
+    "problems": [
+      {
+        "issue": "Root rot in heavy monsoon waterlogging",
+        "cause": "Prolonged standing water around the root collar",
+        "fix": "Plant on a raised earthen mound if local soil has heavy clay drainage issues."
+      },
+      {
+        "issue": "Leaf drop during frost snaps",
+        "cause": "Sub-zero cold temperatures",
+        "fix": "Protect young saplings with burlap covers during coldest winter nights."
+      }
+    ]
+  },
+  {
+    "id": "coriander",
+    "commonName": "Coriander / Cilantro (Dhania)",
+    "scientificName": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "category": "Herbs",
+    "description": "An essential culinary herb providing zesty, citrusy fresh green leaves (cilantro) and warm, fragrant whole spice seeds (coriander). Fast-growing and indispensable in home cooking.",
+    "imageUrl": "/plants/coriander.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Annual",
+    "season": {
+      "bestMonths": [
+        9,
+        10,
+        11,
+        1,
+        2
+      ],
+      "bloomOrHarvest": "Harvest leaves in 30-40 days; harvest dry seeds in 75-90 days",
+      "notes": "In hot regions (Pakistan/Sindh), cultivate exclusively in autumn and winter to prevent immediate bolting."
+    },
+    "watering": {
+      "summer": "Daily (keep shaded)",
+      "winter": "Every 2-3 days",
+      "method": "Gently moisten soil with a fine rose spray can; do not wash away delicate seeds.",
+      "overwaterSigns": "Rotting seedlings, yellow damp stems.",
+      "underwaterSigns": "Premature bolting into tall flower stalks, dried papery foliage."
+    },
+    "light": {
+      "type": "Full Sun (in cool season) to Partial Shade",
+      "hoursPerDay": "4-6 hours",
+      "notes": "Prefers cool sun; protect from scorching midday heat to prolong tender leafy harvests."
+    },
+    "soil": {
+      "type": "Light, fertile, well-drained loamy soil",
+      "phRange": "6.2 - 6.8",
+      "drainage": "Well-drained",
+      "mix": "50% garden loam, 30% vermicompost, 20% fine river sand"
+    },
+    "environment": {
+      "tempRange": "12°C - 24°C (54°F - 75°F)",
+      "humidity": "Moderate (40% - 60%)",
+      "location": "Outdoor Herb Pot / Balcony Planter",
+      "climateZones": [
+        "Temperate",
+        "Subtropical (Winter Crop)",
+        "Hot Arid (Winter Crop)"
+      ],
+      "frostTolerance": "Moderate (tolerates light frost well)"
+    },
+    "care": {
+      "fertilizer": "Feed with light diluted seaweed or compost tea twice during vegetative growth.",
+      "pruning": "Snip outer stems regularly to stimulate new inner shoots from the central base.",
+      "repotting": "Direct sow crushed whole coriander seeds into wide, shallow 8-inch pots."
+    },
+    "problems": [
+      {
+        "issue": "Shooting up into tall flowering umbels (Bolting)",
+        "cause": "Heat stress (>26°C) or erratic soil drying",
+        "fix": "Keep soil evenly damp, provide afternoon shade, or let go to seed to harvest coriander spice."
+      },
+      {
+        "issue": "Slow, patchy seed germination",
+        "cause": "Hard seed husk preventing moisture penetration",
+        "fix": "Gently split the round seed pods into halves by rolling with a rolling pin and soak in water for 12 hours before sowing."
+      }
+    ],
+    "gallery": [
+      "/plants/coriander.jpg",
+      "/plants/coriander-fresh.jpg",
+      "/plants/coriander-bunch.jpg"
+    ]
+  },
+  {
+    "id": "curry-leaf",
+    "commonName": "Curry Leaf Plant (Kadi Patta)",
+    "scientificName": "Murraya koenigii",
+    "family": "Rutaceae",
+    "category": "Herbs",
+    "description": "An aromatic tropical tree belonging to the citrus family, famous for its intensely fragrant leaves used to temper dals, curries, and chutneys. A prized treasure of South Asian garden patios.",
+    "imageUrl": "https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": false,
+    "lifespan": "Perennial Small Tree",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Continuous harvest of aromatic leaf clusters spring through autumn",
+      "notes": "Flourishes across warm subtropical and tropical zones; goes into semi-dormancy in cool winter months."
+    },
+    "watering": {
+      "summer": "Every 1-2 days",
+      "winter": "Every 5-7 days",
+      "method": "Water thoroughly when top inch is dry; reduce watering significantly in cool winter months.",
+      "overwaterSigns": "Yellow leaves that drop quickly, stem rot at base.",
+      "underwaterSigns": "Drooping branches, dry brittle leaves that lose their pungent aroma."
+    },
+    "light": {
+      "type": "Full Sun to Partial Sun",
+      "hoursPerDay": "6+ hours",
+      "notes": "Loves hot sun. Young saplings appreciate partial shade during harsh dry heatwaves."
+    },
+    "soil": {
+      "type": "Rich, slightly acidic, well-draining loamy soil",
+      "phRange": "6.0 - 6.5",
+      "drainage": "Well-drained",
+      "mix": "50% garden loam, 30% aged cow manure or vermicompost, 20% river sand"
+    },
+    "environment": {
+      "tempRange": "18°C - 38°C (65°F - 100°F)",
+      "humidity": "Moderate to high (45% - 70%)",
+      "location": "Outdoor / Sunny Balcony Container",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Hot Arid (Sindh/Punjab)"
+      ],
+      "frostTolerance": "Low (protect below 10°C / 50°F)"
+    },
+    "care": {
+      "fertilizer": "Feed with sour buttermilk diluted in water (chhaas) monthly and top-dress with compost and iron sulfate.",
+      "pruning": "Prune apical stems in spring to stimulate multiple new branches filled with aromatic leaves.",
+      "repotting": "Repot every 2 years into a pot 2-3 inches larger with good drainage."
+    },
+    "problems": [
+      {
+        "issue": "Leaf drop during winter months",
+        "cause": "Natural response to cooler winter temperatures and lower daylight",
+        "fix": "Reduce watering, stop fertilizing until spring, and move to the warmest sunny spot."
+      },
+      {
+        "issue": "Sticky sap and black mold on leaves (Sooty mold)",
+        "cause": "Scale insects or aphids excreting honeydew",
+        "fix": "Spray leaves with neem oil and mild castile soap solution every 5 days."
+      }
+    ]
+  },
+  {
+    "id": "rosemary",
+    "commonName": "Rosemary",
+    "scientificName": "Salvia rosmarinus",
+    "family": "Lamiaceae",
+    "category": "Herbs",
+    "description": "An evergreen Mediterranean woody shrub with fragrant, needle-like leaves and delicate sky-blue blossoms. Highly drought-tolerant, deer-resistant, and a legendary culinary seasoning.",
+    "imageUrl": "/plants/rosemary.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": true,
+    "lifespan": "Perennial Shrub",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Year-round culinary harvesting",
+      "notes": "Can survive extreme dry heat and neglected watering once roots have established deeply."
+    },
+    "watering": {
+      "summer": "Every 7-10 days",
+      "winter": "Every 2-3 weeks",
+      "method": "Allow soil to completely dry between waterings. Rosemary hates 'wet feet' more than almost any herb.",
+      "overwaterSigns": "Blackening leaf tips, root rot, sudden whole-plant collapse.",
+      "underwaterSigns": "Brittle, dull grey needles, drooping branch tips."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Requires intense unobstructed direct sunlight to thrive and maintain piney essential oils."
+    },
+    "soil": {
+      "type": "Lean, gritty, sandy or rocky alkaline soil",
+      "phRange": "6.5 - 7.5",
+      "drainage": "Fast, sharp drainage",
+      "mix": "40% coarse grit/pumice, 40% sandy garden loam, 20% organic compost"
+    },
+    "environment": {
+      "tempRange": "13°C - 35°C (55°F - 95°F)",
+      "humidity": "Low (dry air preferred)",
+      "location": "Outdoor / Terracotta Patio Pot",
+      "climateZones": [
+        "Mediterranean",
+        "Hot Arid",
+        "Temperate"
+      ],
+      "frostTolerance": "Moderate (hardy down to -10°C / 14°F in well-drained soil)"
+    },
+    "care": {
+      "fertilizer": "Low feeder: apply a light sprinkle of wood ash or compost once in spring.",
+      "pruning": "Prune stems back after flowering to keep shrub bushy and prevent woody hollow centers.",
+      "repotting": "Plant in terracotta containers that allow root aeration and fast water evaporation."
+    },
+    "problems": [
+      {
+        "issue": "Powdery white film on needle leaves",
+        "cause": "Powdery mildew in still, stagnant air",
+        "fix": "Relocate to a breezier, sunnier position; avoid wetting the foliage."
+      },
+      {
+        "issue": "Base of stem turns brown and leaves turn brown/black",
+        "cause": "Root rot from soggy potting soil",
+        "fix": "Replant in gravel-heavy soil and cut watering by half."
+      }
+    ],
+    "gallery": [
+      "/plants/rosemary.jpg",
+      "/plants/rosemary-sprig.jpg",
+      "/plants/rosemary-bowl.jpg"
+    ]
+  },
+  {
+    "id": "guava",
+    "commonName": "Guava / Amrood Tree",
+    "scientificName": "Psidium guajava",
+    "family": "Myrtaceae",
+    "category": "Fruit Trees",
+    "description": "Psidium guajava, commonly known as the Guava or Amrood tree, is a hardy evergreen fruit tree native to the tropics and cherished across South Asia. Pollinated primarily by honey bees (Apis mellifera), it produces aromatic, sweet-tart fruits packed with vitamin C, antioxidants, and dietary fiber.",
+    "imageUrl": "/plants/guava.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Perennial (30-40 years)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Two fruiting seasons: monsoon (July-Aug) and winter (Nov-Jan)",
+      "notes": "Winter season fruits in Pakistan and South Asia are sweeter, crisp, and largely free of fruit fly issues."
+    },
+    "watering": {
+      "summer": "Every 2-3 days for young trees",
+      "winter": "Every 7-10 days",
+      "method": "Deep watering around the root zone; withstands brief drought well once established.",
+      "overwaterSigns": "Yellow leaves, root suffocating in standing water.",
+      "underwaterSigns": "Premature fruit drop, shriveled fruit skin, wilting foliage."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Flourishes in scorching hot direct sun; fruit sweetness increases with sunlight."
+    },
+    "soil": {
+      "type": "Deep, well-draining garden loam or sandy loam",
+      "phRange": "5.5 - 7.5",
+      "drainage": "Well-drained (tolerates brief salinity and poor soils)",
+      "mix": "60% garden soil, 30% farmyard compost, 10% sand"
+    },
+    "environment": {
+      "tempRange": "18°C - 42°C (65°F - 108°F)",
+      "humidity": "Moderate (40% - 70%)",
+      "location": "Outdoor Garden / Large 20-Gallon Drum",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Tropical"
+      ],
+      "frostTolerance": "Low (young trees damaged below 2°C / 35°F)"
+    },
+    "care": {
+      "fertilizer": "Apply farmyard manure and potash before both flowering seasons (January and June).",
+      "pruning": "Bending branches or pruning terminal shoots stimulates lateral flower-bearing shoots.",
+      "repotting": "Can be maintained as a bush in large containers for several years."
+    },
+    "problems": [
+      {
+        "issue": "Maggots inside ripe fruits",
+        "cause": "Oriental fruit fly ovipositing eggs in green fruits",
+        "fix": "Bag individual young fruitlets in paper bags or install pheromone traps in the orchard."
+      },
+      {
+        "issue": "Guava wilt (sudden leaf yellowing and death)",
+        "cause": "Soil-borne Fusarium fungal infection",
+        "fix": "Avoid waterlogging; drench root zone with biological Trichoderma viride."
+      }
+    ],
+    "gallery": [
+      "/plants/guava.jpg",
+      "/plants/guava-tree.jpg",
+      "/plants/guava-fruit.jpg"
+    ]
+  },
+  {
+    "id": "jade-plant",
+    "commonName": "Jade Plant (Crassula / Lucky Plant)",
+    "scientificName": "Crassula ovata",
+    "family": "Crassulaceae",
+    "category": "Succulents",
+    "description": "Beloved succulent featuring thick, jade-green oval leaves and sturdy tree-like woody stems. Symbolizing prosperity and enduring good fortune, Jade plants thrive with bright sunlight and infrequent watering.",
+    "imageUrl": "/plants/jade-plant.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Slow",
+    "petSafe": false,
+    "lifespan": "Perennial (50+ years)",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Winter (clusters of delicate starry white-pink flowers)",
+      "notes": "Red leaf margins appear when given bright sunshine and cool night temperatures."
+    },
+    "watering": {
+      "summer": "Every 2 weeks",
+      "winter": "Every 3-4 weeks",
+      "method": "Soak and dry. Squeeze a leaf gently: if plump and firm, do not water; if slightly pliable and soft, water deeply.",
+      "overwaterSigns": "Mushy leaves that drop at the slightest touch, dark soft stem.",
+      "underwaterSigns": "Wrinkled, dull, shriveled leaves with loss of gloss."
+    },
+    "light": {
+      "type": "Bright Direct Sun to Bright Indirect Light",
+      "hoursPerDay": "4-6+ hours",
+      "notes": "Needs plenty of light to maintain sturdy stems and prevent stretching out."
+    },
+    "soil": {
+      "type": "Fast-draining, gritty succulent soil",
+      "phRange": "6.0 - 7.0",
+      "drainage": "Excellent drainage",
+      "mix": "50% pumice/perlite, 40% potting soil, 10% coarse grit"
+    },
+    "environment": {
+      "tempRange": "15°C - 30°C (59°F - 86°F)",
+      "humidity": "Low (30% - 50%)",
+      "location": "Indoor Sunny Window / Covered Balcony",
+      "climateZones": [
+        "Mediterranean",
+        "Hot Arid (Protected)",
+        "Temperate Indoor"
+      ],
+      "frostTolerance": "None (freezes below 4°C / 40°F)"
+    },
+    "care": {
+      "fertilizer": "Feed with dilute succulent fertilizer once in spring and once in mid-summer.",
+      "pruning": "Prune back leggy stems to promote a compact, thick, tree-like bonsai silhouette.",
+      "repotting": "Plant in heavy ceramic or clay pot to prevent top-heavy mature plants from tipping over."
+    },
+    "problems": [
+      {
+        "issue": "Plump green leaves dropping off cleanly",
+        "cause": "Overwatering or sudden cold draft",
+        "fix": "Allow soil to completely dry out before watering again; move away from cold breezes."
+      },
+      {
+        "issue": "White cottony specks on stem joints",
+        "cause": "Mealybugs hiding in leaf axils",
+        "fix": "Remove using 70% isopropyl alcohol on a cotton swab."
+      }
+    ],
+    "gallery": [
+      "/plants/jade-plant.jpg",
+      "/plants/jade-plant-bonsai.jpg",
+      "/plants/jade-plant-cluster.jpg"
+    ]
+  },
+  {
+    "id": "fiddle-leaf-fig",
+    "commonName": "Fiddle Leaf Fig",
+    "scientificName": "Ficus lyrata",
+    "family": "Moraceae",
+    "category": "Indoor",
+    "description": "The dramatic darling of interior design. Features gigantic, violin-shaped scalloped leathery leaves on an upright structural trunk that commands attention in any bright room.",
+    "imageUrl": "https://images.unsplash.com/photo-1545241047-6083a3684587?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Moderate",
+    "growthSpeed": "Moderate",
+    "petSafe": false,
+    "lifespan": "Perennial",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Active sculptural leaf production spring through summer",
+      "notes": "Hates being moved around; choose a permanent bright home and rotate pot a quarter turn each week."
+    },
+    "watering": {
+      "summer": "Every 7-10 days",
+      "winter": "Every 14-18 days",
+      "method": "Water thoroughly until water drains into saucer, discard runoff after 20 minutes. Allow top 2-3 inches to dry.",
+      "overwaterSigns": "Brown spots starting in leaf centers, yellowing lower leaves dropping.",
+      "underwaterSigns": "Crisp brown edges starting at outer borders, drooping leaves."
+    },
+    "light": {
+      "type": "Bright, Filtered Indirect Light",
+      "hoursPerDay": "6 hours",
+      "notes": "Prefers intense filtered sunlight; harsh midday sun can scorch leaves, while dim light causes leaf drop."
+    },
+    "soil": {
+      "type": "Well-aerated, peat-rich potting soil",
+      "phRange": "6.0 - 7.0",
+      "drainage": "Good drainage essential",
+      "mix": "50% potting mix, 25% bark, 25% perlite"
+    },
+    "environment": {
+      "tempRange": "18°C - 30°C (65°F - 86°F)",
+      "humidity": "Moderate to high (45% - 65%)",
+      "location": "Indoor Living Space / Bright Corner",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Temperate Indoor"
+      ],
+      "frostTolerance": "None"
+    },
+    "care": {
+      "fertilizer": "Feed with high-nitrogen houseplant food (3-1-2 ratio) once a month during spring and summer.",
+      "pruning": "Pinch the top growing tip to encourage lateral canopy branching.",
+      "repotting": "Repot every 2 years into a heavy container 2-3 inches larger."
+    },
+    "problems": [
+      {
+        "issue": "Red tiny freckles on emerging new leaves (Edema)",
+        "cause": "Cellular bursting caused by inconsistent watering uptake while leaf was forming",
+        "fix": "Establish a consistent, predictable watering schedule; spots fade as leaf matures."
+      },
+      {
+        "issue": "Sudden leaf dropping from bottom up",
+        "cause": "Draft shock, relocation, or standing in wet saucer water",
+        "fix": "Keep in a stable spot free of drafts and let topsoil dry before watering."
+      }
+    ]
+  },
+  {
+    "id": "pomegranate",
+    "commonName": "Pomegranate Tree (Anar)",
+    "scientificName": "Punica granatum",
+    "family": "Lythraceae",
+    "category": "Fruit Trees",
+    "description": "An ancient, highly resilient subtropical fruit tree producing brilliant scarlet crepe blossoms followed by ruby-crowned fruits packed with jewel-like, antioxidant-rich sweet arils. Outstanding heat and drought endurance.",
+    "imageUrl": "https://images.unsplash.com/photo-1541344999736-83eca272f6fc?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": true,
+    "lifespan": "Deciduous / Semi-evergreen Tree (50+ years)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Blooms spring/summer, harvest August to November",
+      "notes": "Extremely resilient in scorching hot summers; benefits from regular deep soaking when fruit is swelling."
+    },
+    "watering": {
+      "summer": "Every 4-6 days (young) / weekly (mature)",
+      "winter": "Every 2-3 weeks",
+      "method": "Deep trench or drip irrigation. Keep moisture even during fruiting to prevent split skins.",
+      "overwaterSigns": "Yellowing foliage, root suffocation in heavy waterlogged clay.",
+      "underwaterSigns": "Premature fruit drop, shriveled flower buds."
+    },
+    "light": {
+      "type": "Full Scorching Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Demands direct, unfiltered sunshine for abundant flowering and sweet fruit sugar synthesis."
+    },
+    "soil": {
+      "type": "Adaptable, calcareous, sandy loam or gravelly soil",
+      "phRange": "5.5 - 7.5",
+      "drainage": "Well-draining",
+      "mix": "50% native sandy loam, 30% coarse river sand, 20% well-rotted farmyard manure"
+    },
+    "environment": {
+      "tempRange": "15°C - 45°C (59°F - 113°F)",
+      "humidity": "Low to moderate (20% - 50%)",
+      "location": "Outdoor Garden / Orchard / Large 20-inch Pot",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Mediterranean",
+        "Subtropical"
+      ],
+      "frostTolerance": "Moderate (hardy down to -10°C / 14°F when dormant)"
+    },
+    "care": {
+      "fertilizer": "Apply composted cow manure in late winter and a balanced NPK booster after fruit sets.",
+      "pruning": "Prune suckers from base and shape into a single-trunk or 3-stem vase architecture in winter.",
+      "repotting": "Move up to a 50-liter container or transplant directly into orchard ground."
+    },
+    "problems": [
+      {
+        "issue": "Fruit splitting or cracking",
+        "cause": "Irregular watering swings—heavy rain after extended dry periods",
+        "fix": "Mulch deeply and maintain a consistent, regular watering schedule during fruit maturation."
+      },
+      {
+        "issue": "Pomegranate butterfly / fruit borer caterpillars",
+        "cause": "Virachola isocrates moth laying eggs on flowers",
+        "fix": "Bag developing fruits in porous paper bags or spray neem oil spray during early flower petal drop."
+      }
+    ]
+  },
+  {
+    "id": "fig-tree",
+    "commonName": "Fig Tree / Ficus (Anjeer / Ornamental Fig)",
+    "scientificName": "Ficus carica / Ficus microcarpa",
+    "family": "Moraceae",
+    "category": "Fruit Trees",
+    "description": "Stately Ficus species known for dense spreading canopies, glossy variegated foliage, and delicious, nutrient-rich figs (Anjeer). Highly adaptable outdoors in warm climates and beloved as architectural indoor specimens.",
+    "imageUrl": "/plants/fig-tree.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Deciduous Small Tree (30+ years)",
+    "season": {
+      "bestMonths": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Harvest early summer and autumn flushes",
+      "notes": "Figs fruit heavier when their root system is somewhat restricted in containers or stony soil."
+    },
+    "watering": {
+      "summer": "Every 3-5 days in hot summers",
+      "winter": "Every 15-20 days when dormant",
+      "method": "Water thoroughly when top 2 inches dry out. Maintain consistent moisture during fruit swell.",
+      "overwaterSigns": "Bland watery fruit, souring/splitting fruits, yellow falling leaves.",
+      "underwaterSigns": "Limp drooping broad leaves, dropping young green figs."
+    },
+    "light": {
+      "type": "Full Direct Sunlight",
+      "hoursPerDay": "7-8+ hours",
+      "notes": "Requires all-day direct sun to ripen sugar-rich fruits and prevent fruit drop."
+    },
+    "soil": {
+      "type": "Free-draining loamy or stony soil with good lime content",
+      "phRange": "6.0 - 7.8",
+      "drainage": "Fast and unimpeded",
+      "mix": "40% garden loam, 30% perlite or grit, 30% organic compost"
+    },
+    "environment": {
+      "tempRange": "10°C - 42°C (50°F - 108°F)",
+      "humidity": "Low to moderate (25% - 55%)",
+      "location": "Outdoor Patio / Sunny Wall / Ground",
+      "climateZones": [
+        "Mediterranean",
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical"
+      ],
+      "frostTolerance": "Moderate (dormant trees tolerate light winter frost)"
+    },
+    "care": {
+      "fertilizer": "Feed with high-potassium organic liquid fertilizer every 3 weeks while fruits develop.",
+      "pruning": "Prune dead wood and thin crisscrossing interior branches during winter dormancy.",
+      "repotting": "Root prune and refresh container soil every 2-3 years."
+    },
+    "problems": [
+      {
+        "issue": "Premature fig drop",
+        "cause": "Fluctuating moisture levels, extreme heat spikes, or lack of direct sun",
+        "fix": "Mulch the root zone with straw and maintain reliable watering cycles."
+      },
+      {
+        "issue": "Rust spots on leaves",
+        "cause": "Cerotelium fici fungal infection in humid rainy conditions",
+        "fix": "Avoid overhead watering; spray with copper fungicide or dilute neem extract."
+      }
+    ],
+    "gallery": [
+      "/plants/fig-tree.jpg",
+      "/plants/fig-tree-foliage.jpg",
+      "/plants/fig-tree-indoor.jpg"
+    ]
+  },
+  {
+    "id": "papaya",
+    "commonName": "Papaya Tree (Papita)",
+    "scientificName": "Carica papaya",
+    "family": "Caricaceae",
+    "category": "Fruit Trees",
+    "description": "A fast-growing tropical herbaceous tree with an umbrella-like crown of deeply palmate leaves, bearing heavy clusters of sweet, musky golden-orange fruits rich in papain enzyme and vitamin C.",
+    "imageUrl": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Moderate",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Short-lived Perennial (3-5 years)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Year-round fruit in warm climates, peak harvest 9-11 months after planting",
+      "notes": "Sow fresh seeds in warm spring soil for rapid emergence within 2 weeks."
+    },
+    "watering": {
+      "summer": "Every 2-3 days",
+      "winter": "Every 7-10 days",
+      "method": "Deep watering around the root perimeter; avoid soaking directly against the hollow trunk base.",
+      "overwaterSigns": "Soft trunk collar, root collar rot, rapidly yellowing canopy.",
+      "underwaterSigns": "Lower leaf shedding, stunted fruit size."
+    },
+    "light": {
+      "type": "Full Direct Tropical Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Thrives in maximum sunlight and heat; shade produces leggy trunks with zero fruit set."
+    },
+    "soil": {
+      "type": "Rich, highly porous, sandy organic loam",
+      "phRange": "6.0 - 6.8",
+      "drainage": "Flawless, extremely free-draining",
+      "mix": "40% sandy loam, 30% composted manure, 30% coarse river sand"
+    },
+    "environment": {
+      "tempRange": "21°C - 38°C (70°F - 100°F)",
+      "humidity": "Moderate to high (50% - 75%)",
+      "location": "Outdoor Warm Garden / Raised Mound",
+      "climateZones": [
+        "Tropical",
+        "Subtropical",
+        "Warm Coastal"
+      ],
+      "frostTolerance": "None (frost will kill papaya trees immediately)"
+    },
+    "care": {
+      "fertilizer": "Heavy feeder: side-dress with balanced organic NPK compost every 4 weeks.",
+      "pruning": "Generally no pruning required; pinch out lateral side shoots to focus energy on main stem.",
+      "repotting": "Best planted directly into raised mounds or very large 25-gallon tubs."
+    },
+    "problems": [
+      {
+        "issue": "Stem and root rot",
+        "cause": "Water pooling around base in poorly drained heavy clay",
+        "fix": "Plant on 12-inch raised mounds with sand-amended soil."
+      },
+      {
+        "issue": "Mosaic virus / leaf curl",
+        "cause": "Aphids spreading viral disease",
+        "fix": "Control aphid populations with insecticidal soap and remove heavily infected plants."
+      }
+    ]
+  },
+  {
+    "id": "eggplant",
+    "commonName": "Eggplant / Aubergine (Baingan)",
+    "scientificName": "Solanum melongena",
+    "family": "Solanaceae",
+    "category": "Vegetables",
+    "description": "Prolific warm-season nightshade vegetable bearing glossy deep purple, striped, and globular fruits with tender, sponge-like culinary flesh. A staple of South Asian cuisine (Baingan Bharta) and Mediterranean cooking.",
+    "imageUrl": "/plants/eggplant.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": false,
+    "lifespan": "Annual (Perennial in tropical climates)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Harvest 65-80 days after transplanting",
+      "notes": "Sow in late winter for spring planting, or late monsoon for a bountiful winter harvest."
+    },
+    "watering": {
+      "summer": "Daily or every other day during peak fruiting",
+      "winter": "Every 4-5 days",
+      "method": "Consistent soil moisture is essential; use drip or soaker hose at ground level.",
+      "overwaterSigns": "Yellow foliage, flower drop, root rot.",
+      "underwaterSigns": "Wilting, dull leathery fruits, bitter flavor."
+    },
+    "light": {
+      "type": "Full Direct Sunlight",
+      "hoursPerDay": "6-8 hours",
+      "notes": "Needs baking summer warmth and bright sun to pollinate flowers and size up fruits."
+    },
+    "soil": {
+      "type": "Rich, fertile, organic-rich loam",
+      "phRange": "5.8 - 6.8",
+      "drainage": "Well-draining with good moisture retention",
+      "mix": "50% garden soil, 30% aged cow manure / worm castings, 20% coco coir"
+    },
+    "environment": {
+      "tempRange": "20°C - 35°C (68°F - 95°F)",
+      "humidity": "Moderate (40% - 65%)",
+      "location": "Outdoor Garden Bed / 12-inch Container",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Tropical",
+        "Temperate (Summer)"
+      ],
+      "frostTolerance": "None (sensitive to chilly weather below 10°C / 50°F)"
+    },
+    "care": {
+      "fertilizer": "Apply high-potassium organic tomato/vegetable feed every 2 weeks once flowers form.",
+      "pruning": "Stake main stem as heavy fruits develop; pinch early suckers below first flower cluster.",
+      "repotting": "Transplant 4-week-old seedlings into individual 12-to-14 inch pots."
+    },
+    "problems": [
+      {
+        "issue": "Flea beetles chewing tiny shot-holes in leaves",
+        "cause": "Epitrix flea beetles attacking young tender foliage",
+        "fix": "Dust with diatomaceous earth or spray neem oil spray; use floating row covers early on."
+      },
+      {
+        "issue": "Fruit and shoot borer",
+        "cause": "Leucinodes orbonalis larvae boring into tips and fruit",
+        "fix": "Clip and destroy wilted shoot tips immediately; apply organic Bacillus thuringiensis (Bt)."
+      }
+    ],
+    "gallery": [
+      "/plants/eggplant.jpg",
+      "/plants/eggplant-vine.jpg",
+      "/plants/eggplant-dish.jpg"
+    ]
+  },
+  {
+    "id": "okra",
+    "commonName": "Okra / Ladyfinger (Bhindi)",
+    "scientificName": "Abelmoschus esculentus",
+    "family": "Malvaceae",
+    "category": "Vegetables",
+    "description": "An unstoppable summer staple producing tender, ribbed green pods and stunning hibiscus-like cream-yellow flowers with burgundy centers. Thrives in scorching high heat where other vegetables struggle.",
+    "imageUrl": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Warm-season Annual",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "bloomOrHarvest": "Harvest 50-60 days after sowing; pick every 2 days when 3-4 inches long",
+      "notes": "Soak hard seeds overnight in lukewarm water before direct sowing to speed germination."
+    },
+    "watering": {
+      "summer": "Every 2-3 days",
+      "winter": "Weekly (if growing late season)",
+      "method": "Deep watering around the base; reasonably drought-tolerant once taproot establishes.",
+      "overwaterSigns": "Yellowing lower leaves, root rot in poorly drained soil.",
+      "underwaterSigns": "Fibrous, woody, tough pods."
+    },
+    "light": {
+      "type": "Full Scorching Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Loves baking sun and sweltering summer heat; cannot grow in shade."
+    },
+    "soil": {
+      "type": "Fertile, loamy, well-aerated soil",
+      "phRange": "6.5 - 7.5",
+      "drainage": "Good drainage",
+      "mix": "50% garden loam, 30% compost, 20% coarse sand"
+    },
+    "environment": {
+      "tempRange": "24°C - 42°C (75°F - 108°F)",
+      "humidity": "Moderate to high (40% - 70%)",
+      "location": "Outdoor Raised Bed / Vegetable Plot",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Tropical"
+      ],
+      "frostTolerance": "None"
+    },
+    "care": {
+      "fertilizer": "Side dress with balanced compost or 10-10-10 organic feed after first flowering.",
+      "pruning": "Harvest pods frequently to keep the plant flowering and producing continuously.",
+      "repotting": "Best direct seeded due to taproot sensitivity."
+    },
+    "problems": [
+      {
+        "issue": "Powdery mildew on leaves",
+        "cause": "High humidity and dense planting",
+        "fix": "Space plants 18 inches apart and spray with diluted milk/baking soda solution."
+      },
+      {
+        "issue": "Tough, stringy, woody pods",
+        "cause": "Harvested too late",
+        "fix": "Pick pods young (3-4 inches long) every 48 hours with pruning snips."
+      }
+    ]
+  },
+  {
+    "id": "cucumber",
+    "commonName": "Cucumber (Kheera)",
+    "scientificName": "Cucumis sativus",
+    "family": "Cucurbitaceae",
+    "category": "Vegetables",
+    "description": "Crisp, refreshing vining annual delivering tender cylindrical green fruits rich in water and essential electrolytes. Rapidly climbs trellises in summer gardens and yields continuous harvests in warm weather.",
+    "imageUrl": "/plants/cucumber.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Warm-season Annual",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Harvest 50-70 days from sowing",
+      "notes": "Grow vertically on trellises for straighter fruits, better airflow, and easier picking."
+    },
+    "watering": {
+      "summer": "Daily or every other day",
+      "winter": "Every 4-5 days",
+      "method": "Consistent deep watering at soil level; avoid splashing water on leaves to prevent fungal mildew.",
+      "overwaterSigns": "Yellow leaves, powdery mildew, soggy bitter fruit.",
+      "underwaterSigns": "Bitter tasting fruit, curled misshapen cucumbers."
+    },
+    "light": {
+      "type": "Full Sun",
+      "hoursPerDay": "6-8 hours",
+      "notes": "Demands generous sunlight; partial shade significantly cuts yield."
+    },
+    "soil": {
+      "type": "Rich, fertile, organic-rich loam",
+      "phRange": "6.0 - 6.8",
+      "drainage": "Well-drained with high organic moisture retention",
+      "mix": "50% rich garden soil, 35% compost, 15% perlite"
+    },
+    "environment": {
+      "tempRange": "18°C - 35°C (65°F - 95°F)",
+      "humidity": "Moderate (50% - 65%)",
+      "location": "Outdoor Trellis / Large 5-gallon Planter",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Temperate (Summer)"
+      ],
+      "frostTolerance": "None (zero frost tolerance)"
+    },
+    "care": {
+      "fertilizer": "Feed with high-potassium organic fertilizer every 2 weeks once flowering begins.",
+      "pruning": "Train vines up trellises with soft garden ties; pinch lower suckers.",
+      "repotting": "Direct sow seeds or transplant with minimal root disturbance."
+    },
+    "problems": [
+      {
+        "issue": "Powdery white mildew coating leaves",
+        "cause": "Podosphaera fungal spores in warm humid microclimates",
+        "fix": "Water strictly at soil level, prune lower leaves for airflow, spray potassium bicarbonate."
+      },
+      {
+        "issue": "Bitter tasting cucumbers",
+        "cause": "Uneven watering moisture swings or high temperature stress",
+        "fix": "Mulch generously with straw and keep soil consistently moist."
+      }
+    ],
+    "gallery": [
+      "/plants/cucumber.jpg",
+      "/plants/cucumber-fresh.jpg",
+      "/plants/cucumber-sliced.jpg"
+    ]
+  },
+  {
+    "id": "zz-plant",
+    "commonName": "ZZ Plant (Zanzibar Gem)",
+    "scientificName": "Zamioculcas zamiifolia",
+    "family": "Araceae",
+    "category": "Indoor",
+    "description": "Architectural marvel showcasing ultra-glossy, deep emerald pinnate leaflets arching symmetrically from swollen succulent stems. Exceptionally tolerant of low light and drought thanks to subterranean water-storing rhizomes.",
+    "imageUrl": "/plants/zz-plant.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Slow",
+    "petSafe": false,
+    "lifespan": "Perennial (Decades)",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "bloomOrHarvest": "Rare creamy spathes indoors",
+      "notes": "A dependable architectural year-round indoor stunner."
+    },
+    "watering": {
+      "summer": "Every 2-3 weeks",
+      "winter": "Every 4-6 weeks",
+      "method": "Allow potting mix to dry out 100% between waterings. Its potato-like rhizomes store ample water.",
+      "overwaterSigns": "Yellow mushy stems, rotten underground rhizomes, foul odor.",
+      "underwaterSigns": "Wrinkled lower stems, leaflet drop."
+    },
+    "light": {
+      "type": "Low to Bright Indirect Light",
+      "hoursPerDay": "4-6 hours (flexible)",
+      "notes": "Tolerates dimly lit corners and windowless fluorescent offices; avoid harsh burning direct sun."
+    },
+    "soil": {
+      "type": "Well-aerated chunky houseplant potting mix",
+      "phRange": "6.0 - 7.0",
+      "drainage": "Fast draining",
+      "mix": "50% potting mix, 30% perlite/pumice, 20% orchid bark"
+    },
+    "environment": {
+      "tempRange": "15°C - 30°C (59°F - 86°F)",
+      "humidity": "Tolerates dry indoor air (20% - 50%)",
+      "location": "Indoor Living Room / Bedroom / Office Desk",
+      "climateZones": [
+        "Indoor Global"
+      ],
+      "frostTolerance": "None (protect below 10°C / 50°F)"
+    },
+    "care": {
+      "fertilizer": "Dilute balanced liquid houseplant food once in spring and once in summer.",
+      "pruning": "Wipe glossy leaves with a damp cloth to remove dust; snip aged yellow stems at base.",
+      "repotting": "Repot only every 3-4 years when rhizomes distort the container."
+    },
+    "problems": [
+      {
+        "issue": "Yellowing lower stems and mushy roots",
+        "cause": "Overwatering—the #1 killer of ZZ plants",
+        "fix": "Drastically reduce watering frequency; check for root rot and repot in fresh dry mix."
+      },
+      {
+        "issue": "Leaning or floppy stems",
+        "cause": "Reaching towards a distant light source or overwatering",
+        "fix": "Rotate the pot weekly and move slightly closer to gentle indirect light."
+      }
+    ],
+    "gallery": [
+      "/plants/zz-plant.jpg",
+      "/plants/zz-plant-planter.jpg",
+      "/plants/zz-plant-foliage.jpg"
+    ]
+  },
+  {
+    "id": "spider-plant",
+    "commonName": "Spider Plant (Ribbon Plant)",
+    "scientificName": "Chlorophytum comosum",
+    "family": "Asparagaceae",
+    "category": "Indoor",
+    "description": "A resilient, graceful air-purifying houseplant with cascading rosettes of green and white variegated ribbon leaves. Produces arching runners with delicate star flowers and hanging baby plantlets ('spiderettes'). 100% pet-safe.",
+    "imageUrl": "https://images.unsplash.com/photo-1572688484438-313a6e50c333?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Perennial (10+ years)",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Year-round hanging runners & spiderettes",
+      "notes": "Effortlessly propagated by rooting baby spiderettes in water or potting soil."
+    },
+    "watering": {
+      "summer": "Weekly or when top 1-2 inches are dry",
+      "winter": "Every 10-14 days",
+      "method": "Water thoroughly until liquid drains out. Spider plants store moisture in thick tuberous roots.",
+      "overwaterSigns": "Soggy translucent foliage, root rot, dark mushy center.",
+      "underwaterSigns": "Pale washed-out grayish leaves, drooping foliage."
+    },
+    "light": {
+      "type": "Medium to Bright Indirect Light",
+      "hoursPerDay": "4-6 hours",
+      "notes": "Loves bright indirect light; direct harsh sun can scorch the variegated stripes."
+    },
+    "soil": {
+      "type": "Standard fertile, free-draining potting soil",
+      "phRange": "6.0 - 7.0",
+      "drainage": "Good drainage",
+      "mix": "60% houseplant potting soil, 30% perlite, 10% worm castings"
+    },
+    "environment": {
+      "tempRange": "13°C - 27°C (55°F - 80°F)",
+      "humidity": "Moderate (40% - 60%)",
+      "location": "Indoor Hanging Basket / Bookshelf / Window sill",
+      "climateZones": [
+        "Indoor Global",
+        "Subtropical Patio"
+      ],
+      "frostTolerance": "Low (can survive brief dips to 2°C / 35°F)"
+    },
+    "care": {
+      "fertilizer": "Feed with dilute liquid organic fertilizer once monthly in spring and summer.",
+      "pruning": "Clip off crispy brown leaf tips; snip off baby plantlets to propagate or lighten weight.",
+      "repotting": "Repot every 1-2 years in spring when tuberous roots push the plant upward."
+    },
+    "problems": [
+      {
+        "issue": "Brown crispy leaf tips",
+        "cause": "Fluoride/chlorine in tap water or low room humidity",
+        "fix": "Use filtered or rainwater, and trim tips with clean shears."
+      },
+      {
+        "issue": "Fading stripe color",
+        "cause": "Insufficient light causing reversion to solid green",
+        "fix": "Relocate closer to a bright east- or north-facing window."
+      }
+    ]
+  },
+  {
+    "id": "rubber-tree",
+    "commonName": "Rubber Tree (Burgundy Ficus)",
+    "scientificName": "Ficus elastica",
+    "family": "Moraceae",
+    "category": "Indoor",
+    "description": "A bold, dramatic indoor specimen plant famous for thick, leathery, oversized glossy leaves emerging from ruby-red sheaths. Adds architectural grandeur and sophisticated deep green or burgundy elegance to any room.",
+    "imageUrl": "https://images.unsplash.com/photo-1545241047-6083a3684587?auto=format&fit=crop&w=1000&q=80",
+    "difficulty": "Easy",
+    "growthSpeed": "Moderate",
+    "petSafe": false,
+    "lifespan": "Perennial Indoor Tree (20+ years)",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "bloomOrHarvest": "Year-round architectural foliage",
+      "notes": "Provide steady bright light in spring and summer for rapid emergence of new glossy leaves."
+    },
+    "watering": {
+      "summer": "Every 7-10 days",
+      "winter": "Every 14-20 days",
+      "method": "Allow top 50% of potting mix to dry between waterings. Discard standing water in cachepot.",
+      "overwaterSigns": "Yellowing lower leaves that drop rapidly, soft stem.",
+      "underwaterSigns": "Drooping leaves, crispy dry edges, bottom leaf curling."
+    },
+    "light": {
+      "type": "Bright Indirect Light with some gentle morning sun",
+      "hoursPerDay": "6-8 hours",
+      "notes": "Needs ample light to preserve its deep burgundy foliage; low light leads to leaf drop."
+    },
+    "soil": {
+      "type": "Chunky, rich, well-draining aerated mix",
+      "phRange": "5.5 - 6.5",
+      "drainage": "Rapid drainage",
+      "mix": "40% peat/coir, 30% perlite, 20% pine bark chips, 10% compost"
+    },
+    "environment": {
+      "tempRange": "16°C - 29°C (60°F - 85°F)",
+      "humidity": "Moderate (40% - 60%)",
+      "location": "Indoor Living Room Corner / Bright Hallway",
+      "climateZones": [
+        "Indoor Global",
+        "Tropical"
+      ],
+      "frostTolerance": "None (keep strictly above 10°C / 50°F)"
+    },
+    "care": {
+      "fertilizer": "Feed with balanced half-strength houseplant fertilizer every 4 weeks in active growing season.",
+      "pruning": "Prune the central leader to encourage bushy branching; wipe leaves with a microfiber cloth.",
+      "repotting": "Repot every 2 years in spring into a container 2 inches wider."
+    },
+    "problems": [
+      {
+        "issue": "Dropping healthy green or yellow leaves",
+        "cause": "Sudden temperature drafts, relocation shock, or overwatering",
+        "fix": "Keep in a stable spot away from AC vents and let soil dry adequately between waterings."
+      },
+      {
+        "issue": "Dull, dusty foliage",
+        "cause": "Dust buildup blocking photosynthesis",
+        "fix": "Gently wipe leaves with a soft damp cloth once every two weeks."
+      }
+    ]
+  },
+  {
+    "id": "moringa",
+    "commonName": "Moringa / Drumstick Tree (Sohanjna)",
+    "scientificName": "Moringa oleifera",
+    "family": "Moringaceae",
+    "category": "Outdoor",
+    "description": "Fast-growing 'Miracle Tree' revered worldwide for its nutrient-dense superfood foliage, fragrant creamy-white blossoms, and tender, slender drumstick pods packed with essential vitamins and minerals.",
+    "imageUrl": "/plants/moringa.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Deciduous / Evergreen Tree (20+ years)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        4,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Harvest fresh leaves in 60-90 days, drumstick pods in autumn/spring",
+      "notes": "Can be coppiced or pruned low as a productive backyard bush for easy daily leaf harvesting."
+    },
+    "watering": {
+      "summer": "Weekly (drought-hardy once established)",
+      "winter": "Every 2-3 weeks",
+      "method": "Water deeply around base. Tubers store water efficiently; dislikes soggy standing water.",
+      "overwaterSigns": "Yellowing leaflets, root rot in heavy waterlogged clay.",
+      "underwaterSigns": "Leaflet shedding (quickly bounces back upon irrigation)."
+    },
+    "light": {
+      "type": "Full Scorching Sun",
+      "hoursPerDay": "6-8+ hours",
+      "notes": "Demands blistering sun and heat; cannot thrive in shade."
+    },
+    "soil": {
+      "type": "Sandy, well-draining loam or poor gravelly soil",
+      "phRange": "6.3 - 7.5",
+      "drainage": "Sharp drainage",
+      "mix": "60% sandy garden loam, 30% river sand, 10% organic compost"
+    },
+    "environment": {
+      "tempRange": "20°C - 48°C (68°F - 118°F)",
+      "humidity": "Low to moderate (15% - 50%)",
+      "location": "Outdoor Garden / Backyard Border / Acreage",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Tropical"
+      ],
+      "frostTolerance": "Low (can die back to roots in frost but re-shoots vigorously in spring)"
+    },
+    "care": {
+      "fertilizer": "Light feeder: top-dress with composted cow manure once in late winter.",
+      "pruning": "Pinch terminal shoots at 3 feet height to promote dense branching and accessible harvest.",
+      "repotting": "Best planted directly in open ground or 25-gallon containers."
+    },
+    "problems": [
+      {
+        "issue": "Caterpillars defoliating feathery leaflets",
+        "cause": "Hairy caterpillar infestations during monsoon",
+        "fix": "Hand-pick or spray organic Bacillus thuringiensis (Bt) or neem oil."
+      },
+      {
+        "issue": "Root rot in heavy monsoon rains",
+        "cause": "Stagnant drainage in heavy clay",
+        "fix": "Plant on raised gravel mounds with sandy soil amendments."
+      }
+    ],
+    "gallery": [
+      "/plants/moringa.jpg",
+      "/plants/moringa-tree.jpg",
+      "/plants/moringa-leaves.jpg"
+    ]
+  },
+  {
+    "id": "gulmohar",
+    "commonName": "Royal Poinciana / Gulmohar (Flame Tree)",
+    "scientificName": "Delonix regia",
+    "family": "Fabaceae",
+    "category": "Outdoor",
+    "description": "Iconic tropical shade tree famed for its breathtaking umbrella-shaped canopy bursting into fiery scarlet-orange blossoms in late spring and summer. Highly tolerant of intense summer heat and subtropical sunshine.",
+    "imageUrl": "/plants/gulmohar.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Deciduous Shade Tree (50+ years)",
+    "season": {
+      "bestMonths": [
+        2,
+        3,
+        7,
+        8
+      ],
+      "bloomOrHarvest": "Sensational flame-red bloom flushes April through July",
+      "notes": "Nicknamed 'Flower of the Forest' and beloved across Pakistan, India, and the tropics."
+    },
+    "watering": {
+      "summer": "Weekly for young trees; highly drought tolerant once mature",
+      "winter": "Minimal / natural rainfall",
+      "method": "Deep infrequent watering to encourage deep anchoring root growth.",
+      "overwaterSigns": "Excessive leafy growth with delayed flower set.",
+      "underwaterSigns": "Premature shedding of bipinnate leaflets."
+    },
+    "light": {
+      "type": "Full Intense Sunlight",
+      "hoursPerDay": "8+ hours",
+      "notes": "Requires full open sky and blazing sunlight for maximum flower show."
+    },
+    "soil": {
+      "type": "Adaptable, free-draining sandy or clay loam",
+      "phRange": "6.0 - 7.5",
+      "drainage": "Good drainage",
+      "mix": "Native soil amended with coarse sand and organic compost"
+    },
+    "environment": {
+      "tempRange": "20°C - 46°C (68°F - 115°F)",
+      "humidity": "Moderate (30% - 65%)",
+      "location": "Outdoor Park / Wide Avenue / Large Garden Lawn",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Tropical",
+        "Subtropical"
+      ],
+      "frostTolerance": "None (strictly frost sensitive)"
+    },
+    "care": {
+      "fertilizer": "Apply slow-release organic tree fertilizer in early spring prior to flowering.",
+      "pruning": "Prune lower branches early to develop a high, spreading umbrella canopy for shade.",
+      "repotting": "Plant saplings outdoors with plenty of space (develops wide surface roots)."
+    },
+    "problems": [
+      {
+        "issue": "Surface roots uplifting nearby pavers",
+        "cause": "Naturally shallow, spreading root system",
+        "fix": "Plant at least 15 feet away from walls, sidewalks, and driveways."
+      },
+      {
+        "issue": "Caterpillar chewing foliage during monsoon",
+        "cause": "Semi-looper or leaf-eating caterpillars",
+        "fix": "Spray organic neem oil extract or release beneficial predatory insects."
+      }
+    ],
+    "gallery": [
+      "/plants/gulmohar.jpg",
+      "/plants/gulmohar-canopy.jpg",
+      "/plants/gulmohar-tree.jpg"
+    ]
+  },
+  {
+    "id": "zinnia",
+    "commonName": "Hybrid Zinnia (Youth and Age)",
+    "scientificName": "Zinnia elegans",
+    "family": "Asteraceae",
+    "category": "Flowers",
+    "description": "Dazzling warm-season annual bearing abundant, multi-petaled double blooms in an electrifying rainbow palette of scarlet, fiery orange, golden yellow, magenta, and blush peach. Thrives in scorching summer heat and attracts pollinating butterflies.",
+    "imageUrl": "/plants/zinnia.jpg",
+    "difficulty": "Easy",
+    "growthSpeed": "Fast",
+    "petSafe": true,
+    "lifespan": "Annual (Spring to Autumn Frost)",
+    "season": {
+      "bestMonths": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "bloomOrHarvest": "Non-stop flowering 6-8 weeks from seed until autumn",
+      "notes": "Deadhead spent blooms regularly to encourage continuous flushes of fresh flowers."
+    },
+    "watering": {
+      "summer": "Every 2-3 days",
+      "winter": "Not applicable (annual)",
+      "method": "Water at the soil base; avoid wetting leaves to keep powdery mildew away.",
+      "overwaterSigns": "Soggy root rot, powdery mildew on foliage.",
+      "underwaterSigns": "Wilting petals, drooping stems."
+    },
+    "light": {
+      "type": "Full Hot Sun",
+      "hoursPerDay": "6-8 hours",
+      "notes": "Loves heat and bright sun; will grow leggy and prone to fungus in shade."
+    },
+    "soil": {
+      "type": "Rich, well-draining, fertile garden soil",
+      "phRange": "5.5 - 7.5",
+      "drainage": "Excellent drainage",
+      "mix": "50% garden soil, 30% compost, 20% sand or perlite"
+    },
+    "environment": {
+      "tempRange": "20°C - 38°C (68°F - 100°F)",
+      "humidity": "Low to moderate (25% - 50%)",
+      "location": "Outdoor Flower Bed / Sunny Balcony Planter",
+      "climateZones": [
+        "Hot Arid (Sindh/Punjab)",
+        "Subtropical",
+        "Temperate (Summer)"
+      ],
+      "frostTolerance": "None (annual dies at first frost)"
+    },
+    "care": {
+      "fertilizer": "Feed with balanced water-soluble bloom fertilizer every 3 weeks.",
+      "pruning": "Deadhead spent flower heads and pinch young seedlings at 6 inches for bushier plants.",
+      "repotting": "Direct sow in borders or plant in 8-to-10 inch decorative containers."
+    },
+    "problems": [
+      {
+        "issue": "Powdery mildew coating leaves white",
+        "cause": "Overcrowded spacing or overhead watering",
+        "fix": "Space plants 12 inches apart for airflow and water strictly at base in mornings."
+      },
+      {
+        "issue": "Aphids clustering under flower buds",
+        "cause": "Warm weather pest pressure",
+        "fix": "Spray off with a strong blast of water or treat with diluted neem oil."
+      }
+    ],
+    "gallery": [
+      "/plants/zinnia.jpg",
+      "/plants/zinnia-blooms.jpg",
+      "/plants/zinnia-colors.jpg"
+    ]
+  }
+]
