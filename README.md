@@ -60,13 +60,68 @@ A fast, responsive, and botanical plant care web encyclopedia built with **Next.
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 15 (App Router)
-- **UI & Components**: React 19, Tailwind CSS, Lucide React icons
-- **Data Source**: `/data/plants.json` structured JSON database (ready to be connected to PostgreSQL, MongoDB, or Prisma later)
+- **Web Framework**: Next.js 15 (App Router, Static Export `output: 'export'`)
+- **Mobile Native Shell**: Capacitor 6 (`@capacitor/core`, `@capacitor/android`, `@capacitor/cli`)
+- **UI & Styling**: React 19, Tailwind CSS, Lucide React icons
+- **Data & Media**: Local JSON database (`/data/plants.json`) with 113 bundled offline photography assets
+- **Offline Architecture**: 100% self-contained on-device client runtime (search, filters, calendar, and quiz run in-memory)
 
 ---
 
-## 🚀 Setup & Running Locally
+## 📱 Running as an Android App (Capacitor)
+
+GreenWiki is fully configured as a native Android application using **Capacitor**. All 40 botanical profiles, 113 high-resolution plant photos, seasonal calendars, search indexing, and quizzes work **100% offline** with zero external network dependencies.
+
+- **App Name**: GreenWiki
+- **Package ID**: `com.greenwiki.app`
+- **Native Platform**: Android (SDK 34+)
+- **Custom Branding**: Adaptive botanical launcher icons (`mipmap-*`) and branded splash screens (`drawable-*`)
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v18+)
+- [Android Studio](https://developer.android.com/studio) with Android SDK (API 34) and Command Line Tools
+
+### 1. Build the Static Web Assets
+Compile the Next.js static export (`out/` directory):
+```bash
+npm run build
+```
+
+### 2. Sync Web Assets to Android
+Sync the exported HTML/CSS/JS and local botanical assets into the native Android assets directory:
+```bash
+npx cap sync
+```
+
+### 3. Run or Build the App
+
+#### Option A: Using Android Studio (Recommended for Testing & Emulators)
+Open the native project directly in Android Studio:
+```bash
+npx cap open android
+```
+From Android Studio, click **Run** (Green play button) to launch the app on your connected device or Android Virtual Device (AVD).
+
+#### Option B: Build Debug APK via Command Line
+Run the Gradle wrapper directly to produce a standalone `.apk`:
+```bash
+# On Windows PowerShell / Command Prompt:
+cd android
+.\gradlew.bat assembleDebug
+
+# On macOS / Linux:
+cd android
+./gradlew assembleDebug
+```
+The compiled debug APK will be generated at:
+```
+android/app/build/outputs/apk/debug/app-debug.apk
+```
+
+---
+
+## 🚀 Web Development Setup
+
 
 1. Clone or navigate into the project directory:
    ```bash
